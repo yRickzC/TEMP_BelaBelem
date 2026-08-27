@@ -1,0 +1,630 @@
+{
+    "pages": {
+        "home": {
+            "principaldest": "Nuestros Paquetes Turísticos"
+        },
+        "regulamentation": {
+            "title": "FORMAS DE PAGO Y REGLAMENTOS"
+        }
+    },
+    "tours": [
+        {
+            "id": "city-tour-belem-para",
+            "titulo": "City Tour - Belém y/o Icoaraci",
+            "moreButton": "Sepa más",
+            "imgTitle": "/assets/Imagenslocal/pacotecitytour.jpeg",
+            "imgSecundaria": "/assets/Imagenslocal2/city tour2.jpg",
+            "descricao": "Explore los principales puntos turísticos de Belém en un recorrido guiado por la ciudad. Conozca la historia, cultura y bellezas naturales de la capital de Pará.",
+            "precos": {
+                "title": "Precios y Duración:",
+                "list": [
+                    { "valor": 350, "duracao": "09 Horas de recorrido" },
+                    { "valor": 270, "duracao": "05 Horas de recorrido" },
+                    {
+                        "valor": 380,
+                        "duracao": "10 Horas de recorrido <br><span class=\"text-[13px] md:text-[15px] font-normal\">(Belém + Icoaraci)</span>"
+                    },
+                    {
+                        "valor": 280,
+                        "duracao": "05 Horas de recorrido <br><span class=\"text-[13px] md:text-[15px] font-normal\">(Solo Icoaraci)</span>"
+                    }
+                ]
+            },
+            "more": {
+                "title": "BBOT realizará su recepción turística en su hotel a cualquier hora (a convenir).<br><br>Luego nos dirigiremos a espacios zoobotánicos, culturales, históricos y populares, como:<br><b>Parque do Utinga, Espacio São José Liberto, Portal da Amazônia, Mangal das Garças, Espacio Feliz Lusitânia (Forte do Presépio, Iglesia de São Alexandre, Catedral da Sé y Casa das Onze Janelas), Basílica de Nazaré, Ver-o-Peso, Estación das Docas, Museo Emílio Goeldi y Teatro da Paz</b>, entre otros.<br><br>Para aquellos con un interés genuino en la Cerámica Marajoara, ofrecemos una visita a la localidad de <b>Paracuri y el malecón de Icoaraci – cunas de la cultura ceramista.</b> El distrito también cuenta con restaurantes y pescaderías con vistas a la Bahía de Marajó, todo esto ubicado a 20 km del centro de Belém por vías urbanas.",
+                "details": {
+                    "title": "Detalles",
+                    "list": [
+                        { "name": "Duración: ", "value": "<b>De 05 a 10 horas de recorrido</b>" },
+                        { "name": "Atención: ", "value": "<b>La lista de destinos anterior es ilustrativa. Su visita depende de las horas contratadas, de la disponibilidad del lugar y del interés y perfil del cliente.</b>" }
+                    ]
+                },
+                "included": {
+                    "title": "Lo que está incluido",
+                    "list": [
+                        { "name": "", "value": "<b>Recepción en el hotel</b>" },
+                        { "name": "", "value": "<b>Todos los traslados y Servicios de Guía Turístico</b>" }
+                    ]
+                },
+                "notIncluded": {
+                    "title": "Lo que no está incluido",
+                    "list": [
+                        { "name": "", "value": "<b>Boletos de entrada de ningún tipo</b>" },
+                        { "name": "", "value": "<b>Alimentos y Bebidas</b>" }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "ilha-de-mosqueiro",
+            "titulo": "Isla de Mosqueiro",
+            "moreButton": "Sepa más",
+            "imgTitle": "/assets/Imagenslocal/ilhademosqueiro.jpg",
+            "imgSecundaria": "/assets/Imagenslocal2/ilhademosqueiro2.jpeg",
+            "descricao": "La isla más grande de Belém, un verdadero paraíso de agua dulce, con playas bañadas por la Bahía de Marajó y restaurantes que ofrecen lo mejor de la cocina de Pará, rica en sabores únicos y tradiciones locales.",
+            "precos": {
+                "title": "Precios y Duración:",
+                "list": [
+                    { "valor": 350, "duracao": "10 Horas de recorrido" }
+                ]
+            },
+            "more": {
+                "title": "BBOT realizará su recepción turística en su hotel a la hora acordada. Nos dirigiremos a la Isla de Mosqueiro por carretera (aprox. 70 km), una oportunidad para conocer la Metrópolis de Belém.<br><br>En la isla, visitaremos la <b>Villa de Mosqueiro</b>: la Iglesia de Nossa Senhora do Ó, el Mercado Municipal y el Mercado de Tapioca. A continuación, visitaremos playas de agua dulce como <b>Farol, Chapéu Virado, Murubira, Ariramba y, finalmente, la Playa del Paraíso.</b><br><br>¡Todas ellas con encanto estructuradas a orillas de la gigantesca Bahía de Marajó, dotadas de restaurantes con formas y contenidos únicos en Brasil!",
+                "details": {
+                    "title": "Detalles",
+                    "list": [
+                        { "name": "Duración: ", "value": "<b>Hasta 10 horas de recorrido</b>" }
+                    ]
+                },
+                "included": {
+                    "title": "Lo que está incluido",
+                    "list": [
+                        { "name": "", "value": "<b>Recepción en el hotel</b>" },
+                        { "name": "", "value": "<b>Todos los traslados y Servicios de Guía Turístico</b>" }
+                    ]
+                },
+                "notIncluded": {
+                    "title": "Lo que no está incluido",
+                    "list": [
+                        { "name": "", "value": "<b>Boletos de entrada de ningún tipo</b>" },
+                        { "name": "", "value": "<b>Alimentos y Bebidas</b>" }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "ilha-do-combu",
+            "titulo": "Isla do Combu",
+            "moreButton": "Sepa más",
+            "imgTitle": "/assets/Imagenslocal/ilhadocombu.jpg",
+            "imgSecundaria": "/assets/Imagenslocal2/ilhadocombu2.jpg",
+            "descricao": "La Isla do Combu es famosa por sus chocolates artesanales y paseos en bote por los canales (igarapés). Un lugar encantador para relajarse y degustar la gastronomía local.",
+            "precos": {
+                "title": "Precios y Duración:",
+                "list": [
+                    { "valor": 390, "duracao": "09 Horas de recorrido" }
+                ]
+            },
+            "more": {
+                "title": "BBOT realizará su recepción turística en su hotel o lugar de alojamiento a la hora acordada. Luego, en la zona portuaria, embarcaremos en una lancha debidamente registrada en la Marina de Brasil.<br><br>Comenzaremos nuestro paseo en lancha hacia el llamado <b>Encuentro de los Ríos o la Prainha</b> (según la marea), donde presenciaremos la dimensión fluvial de nuestra capital. Luego, navegaremos por el Canal de Paciência y el Igarapé Piriquitaquara, atracando en la casa de cultura ribereña <b>Ygara</b>, donde caminaremos por el bosque rodeados de leyendas y costumbres caboclas. Aprenderemos sobre su flora y fauna y tendremos contacto con objetos artesanales típicos del Amazonas.<br><br>Más adelante, visitaremos la fábrica y tienda de chocolates de Doña Nena, la <b>Hija do Combu (Filha do Combu)</b>, orgullo local y referencia nacional en la producción de chocolate 100%. Finalmente, atracaremos en un restaurante seleccionado, con una piscina natural de marea y amplios espacios para bañarse y disfrutar de la cocina típica.",
+                "details": {
+                    "title": "Detalles",
+                    "list": [
+                        { "name": "Duración: ", "value": "<b>Hasta 09 horas de recorrido</b>" }
+                    ]
+                },
+                "included": {
+                    "title": "Lo que está incluido",
+                    "list": [
+                        { "name": "", "value": "<b>Recepción en el hotel</b>" },
+                        { "name": "", "value": "<b>Todos los traslados y Servicios de Guía Turístico</b>" }
+                    ]
+                },
+                "notIncluded": {
+                    "title": "Lo que no está incluido",
+                    "list": [
+                        { "name": "", "value": "<b>Boletos de entrada de ningún tipo</b>" },
+                        { "name": "", "value": "<b>Alimentos y Bebidas</b>" }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "ilha-do-combu-executivo",
+            "titulo": "Isla do Combu Ejecutivo",
+            "moreButton": "Sepa más",
+            "imgTitle": "/assets/Imagenslocal/combuexecutivo.jpeg",
+            "imgSecundaria": "/assets/Imagenslocal2/combuexecutivo2.jpg",
+            "descricao": "El paquete Isla do Combu Ejecutivo es ideal para quienes desean experimentar la riqueza de la cultura ribereña de forma práctica, aprovechando lo mejor de la experiencia incluso con tiempo reducido.",
+            "precos": {
+                "title": "Precios y Duración:",
+                "list": [
+                    { "valor": 310, "duracao": "05 Horas de recorrido" }
+                ]
+            },
+            "more": {
+                "title": "BBOT realizará su recepción turística en su hotel, alojamiento o evento. A continuación, será llevado a la zona portuaria desde donde partiremos en una lancha registrada regularmente en la Marina de Brasil.<br><br>Iniciaremos nuestro paseo en lancha hacia el <b>Encuentro de los Ríos o la Prainha</b> (según la marea), donde presenciaremos la dimensión fluvial de nuestra capital. Luego, caminaremos por el bosque en un sendero corto pero rico, envueltos en leyendas y costumbres caboclas, aprendiendo sobre la flora y la fauna.<br><br>Más adelante, visitaremos la fábrica/tienda <b>A Filha do Combu</b> con su chocolate 100% apreciado mundialmente. Finalmente, atracaremos en un restaurante seleccionado, donde podrá disfrutar de piscinas de marea en un entorno forestal genuino. Después del almuerzo, regresaremos a su hotel o evento con total comodidad.",
+                "details": {
+                    "title": "Detalles",
+                    "list": [
+                        { "name": "Duración: ", "value": "<b>Hasta 05 horas de recorrido</b>" },
+                        { "name": "Atención:", "value": " <b>Disponible todos los días</b>" }
+                    ]
+                },
+                "included": {
+                    "title": "Lo que está incluido",
+                    "list": [
+                        { "name": "", "value": "<b>Recepción en el hotel</b>" },
+                        { "name": "", "value": "<b>Todos los traslados y Servicios de Guía Turístico</b>" }
+                    ]
+                },
+                "notIncluded": {
+                    "title": "Lo que no está incluido",
+                    "list": [
+                        { "name": "", "value": "<b>Boletos de entrada de ningún tipo</b>" },
+                        { "name": "", "value": "<b>Alimentos y Bebidas</b>" }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "super-combu-e-ilha-grande",
+            "titulo": "Súper Islas do Combu, Murutucu e Isla Grande",
+            "moreButton": "Sepa más",
+            "imgTitle": "/assets/Imagenslocal/supercombu.jpg",
+            "imgSecundaria": "/assets/Imagenslocal2/supercombu2.jpg",
+            "descricao": "El paquete Súper Combu y Otras Islas está hecho a medida para quienes desean una experiencia aún más completa, explorando en profundidad la riqueza de la vida ribereña de Belém.",
+            "precos": {
+                "title": "Precios y Duración:",
+                "list": [
+                    { "valor": 430, "duracao": "09 Horas de recorrido" }
+                ]
+            },
+            "more": {
+                "title": "Realizaremos su recepción turística en su hotel o alojamiento. En la zona portuaria, embarcaremos en una lancha regular de la Marina de Brasil.<br><br>Este tour es para usted que desea explorar en una dimensión aún mayor, más allá de la Isla do Combu, buscando espacios exclusivos en un itinerario donde incluimos las preservadas <b>Islas Murutucu e Isla Grande</b>, así como la zona continental en el municipio de <b>Acará</b>, con el objetivo de ampliar su visión de la vida y la dinámica económica de la comunidad ribereña local.<br><br>Comenzaremos nuestro paseo en lancha por la llamada <b>Prainha en el Río São Benedito</b> (según la marea), donde presenciaremos la formación de bancos de arena en el encuentro de ríos. A continuación visitaremos al folclórico maestro caboclo Ladi con su carisma y conocimiento únicos de la flora amazónica en la comunidad de Acará. Luego, visitaremos la casa de cultura ribereña Ygara con su contenido de fauna y flora local, así como la artesanía producida por nativos de toda la región del archipiélago. Nuestro itinerario incluye una visita al espacio de Filha do Combu y su chocolate 100%.<br><br>Finalmente, disfrutaremos de espacios con rica gastronomía y piscinas de marea en las islas de Murutucu, Isla Grande o Combu, dependiendo de la disponibilidad.",
+                "details": {
+                    "title": "Detalles",
+                    "list": [
+                        { "name": "Duración: ", "value": "<b>Hasta 09 horas de recorrido</b>" },
+                        { "name": "ATENCIÓN: ", "value": "<b>Disponible todos los días</b>" }
+                    ]
+                },
+                "included": {
+                    "title": "Lo que está incluido",
+                    "list": [
+                        { "name": "", "value": "<b>Recepción en el hotel</b>" },
+                        { "name": "", "value": "<b>Todos los traslados y Servicios de Guía Turístico</b>" }
+                    ]
+                },
+                "notIncluded": {
+                    "title": "Lo que no está incluido",
+                    "list": [
+                        { "name": "", "value": "<b>Boletos de entrada de ningún tipo</b>" },
+                        { "name": "", "value": "<b>Alimentos y Bebidas</b>" }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "ilha-dos-papagaios",
+            "titulo": "Isla de los Loros <br><span class=\"text-xl\">(Vuelo de los Loros)</span>",
+            "moreButton": "Sepa más",
+            "imgTitle": "/assets/Imagenslocal/ilhadospapagaios.jpg",
+            "imgSecundaria": "/assets/Imagenslocal2/ilhadospapagaios2.jpg",
+            "imgTerciaria": "/assets/Imagenslocal2/ilhadospapagaios3.jpeg",
+            "descricao": "La Isla de los Loros (Ilha dos Papagaios) es un verdadero santuario natural, hogar de las aves que le dan su nombre, y escenario del impresionante fenómeno de sus vuelos al amanecer y al atardecer.",
+            "precos": {
+                "title": "Precios y Duración:",
+                "list": [
+                    {
+                        "valor": 390,
+                        "duracao": "05 Horas de recorrido <br><span class=\"text-[13px] md:text-[15px] font-normal\">(Amanecer)</span>"
+                    },
+                    {
+                        "valor": 290,
+                        "duracao": "03 Horas de recorrido <br><span class=\"text-[13px] md:text-[15px] font-normal\">(Atardecer)</span>"
+                    }
+                ]
+            },
+            "more": {
+                "title": "Realizaremos su recepción turística en su hotel o lugar acordado. En la zona portuaria, embarcaremos en una lancha regular de la Marina de Brasil.<br><br>Este recorrido es para usted que desea explorar el <b>Vuelo de los Loros en la Isla de los Loros</b> y desea experimentar una mañana o al final de la tarde en el entorno de la vida cabocla ribereña amazónica. El vuelo de los loros es un fenómeno que ocurre todas las mañanas a las 06:00 y a las 18:00 de la tarde. Presenciaremos el espectáculo de las aves a la hora que desee.<br><br><b>En el itinerario del Amanecer:</b> el desayuno se sirve en la casa de cultura ribereña Ygara, lo que nos permitirá, más allá de aprender sobre las leyendas y mitologías locales, caminar por el bosque con su diversidad de fauna y flora. Para el tour del Amanecer, finalmente visitaremos la casa Filha do Combu con su chocolate 100%.<br><br><b>Para quienes eligieron el Atardecer:</b> al igual que el Amanecer, navegaremos por las entrañas de la vida ribereña en el Canal de Maracujá. El regreso es nocturno con las luces de la metrópolis de fondo.",
+                "details": {
+                    "title": "Detalles",
+                    "list": [
+                        { "name": "Duración - <b>Amanecer:</b> ", "value": "<b>Hasta 05 horas de recorrido</b>" },
+                        { "name": "Duración - <b>Atardecer:</b> ", "value": "<b>Hasta 03 horas de recorrido</b>" },
+                        { "name": "", "value": "<b>Disponible todos los días</b>" }
+                    ]
+                },
+                "included": {
+                    "title": "Lo que está incluido",
+                    "list": [
+                        { "name": "", "value": "<b>Recepción en el hotel</b>" },
+                        { "name": "", "value": "<b>Desayuno para el recorrido del Amanecer</b>" },
+                        { "name": "", "value": "<b>Todos los traslados y Servicios de Guía Turístico</b>" }
+                    ]
+                },
+                "notIncluded": {
+                    "title": "Lo que no está incluido",
+                    "list": [
+                        { "name": "", "value": "<b>Boletos de entrada de ningún tipo</b>" }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "ilha-de-cotijuba",
+            "titulo": "Isla de Cotijuba",
+            "moreButton": "Sepa más",
+            "imgTitle": "/assets/Imagenslocal/ilhadecontijuba.png",
+            "imgSecundaria": "/assets/Imagenslocal2/Ilhadecotijuba.png",
+            "imgTerciaria": "/assets/Imagenslocal2/ilhadecontijuba3.png",
+            "descricao": "La Isla de Cotijuba es para ti que deseas un espacio de aventura donde la libertad de comportamiento es impulsada por 'Motorretes' (carruajes de motos) y bañada por la carismática Playa de Vai Quem Quer.",
+            "precos": {
+                "title": "Precios y Duración:",
+                "list": [
+                    { "valor": 350, "duracao": "11 Horas de recorrido" }
+                ]
+            },
+            "more": {
+                "title": "BBOT realizará su recepción turística en su hotel o alojamiento a la hora acordada. Luego nos dirigiremos a la región portuaria de Icoaraci, distrito de Belém do Pará, con destino a la Isla de Cotijuba. A continuación, abordaremos un barco o lancha autorizada por la Marina de Brasil.<br><br>Después de un tiempo de viaje promedio de 30 minutos a 1 hora a través de la Bahía de Guajará y los canales de las islas, atracaremos en la Isla de Cotijuba. Desde allí, nos dirigiremos hacia la <b>Playa de Vai Quem Quer</b>, una playa espectacular bañada por la Bahía de Marajó (bahía de agua dulce), alternando momentos de olas para surfistas y la calma de una piscina en un entorno único, rodeado de restaurantes de cocina típica local. Todo esto en una isla donde encontraremos carruajes conducidos por motos por caminos forestales y zonas urbanizadas. ¡Una verdadera AVENTURA!",
+                "details": {
+                    "title": "Detalles",
+                    "list": [
+                        { "name": "Duración: ", "value": "<b>Hasta 11 horas de recorrido</b>" }
+                    ]
+                },
+                "included": {
+                    "title": "Lo que está incluido",
+                    "list": [
+                        { "name": "", "value": "<b>Recepción en el hotel</b>" },
+                        { "name": "", "value": "<b>Todos los traslados y Servicios de Guía Turístico</b>" }
+                    ]
+                },
+                "notIncluded": {
+                    "title": "Lo que no está incluido",
+                    "list": [
+                        { "name": "", "value": "<b>Boletos de entrada de ningún tipo</b>" },
+                        { "name": "", "value": "<b>Alimentos y Bebidas</b>" }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "ilha-de-marajo",
+            "titulo": "Isla de Marajó (Soure)",
+            "moreButton": "Sepa más",
+            "imgTitle": "/assets/Imagenslocal/ilhadomarajo.jpg",
+            "imgSecundaria": "/assets/Imagenslocal2/ilhadomarajo2.jpeg",
+            "imgTerciaria": "/assets/Imagenslocal2/ilhadomarajo3.jpeg",
+            "descricao": "La isla fluviomarina más grande del mundo, Marajó es conocida por sus paisajes únicos, búfalos y artesanía en cerámica. Un destino imprescindible para quien visita Pará.",
+            "precos": {
+                "title": "Precios y Duración:",
+                "list": [
+                    { "valor": 790, "duracao": "36 Horas de recorrido" },
+                    { "valor": 530, "duracao": "11 Horas de recorrido" }
+                ]
+            },
+            "more": {
+                "title": "BBOT realizará su recepción en el horario a convenir. Nos dirigiremos a la Isla de Marajó a través del Terminal Hidroviario de Belém con destino a la ciudad de Soure. En la isla, con nuestro guía local, visitaremos curtidurías, espacios de cerámica, áreas con presencia de búfalos, granjas de queso de búfala y dulces de leche, además de las magníficas playas de <b>Barra Velha y Pesqueira</b>, entre otros espacios y eventos según disponibilidad.",
+                "important": "<p class='font-bold text-lg mb-2 text-amber-800'>¡Importante Saber!</p><p class='mb-4 text-justify'>La Isla de Marajó tiene una ocupación comprobada de al menos 6,000 años. ¡Así es, hay hallazgos de Cerámica producida en la isla 5,500 años antes del llamado Descubrimiento! ¡La historia definitivamente tiene puntos de vista!</p><p class='font-bold mb-1 text-primary'>¿Y por qué mencionamos esto?</p><p class='mb-2 text-justify'>Porque durante milenios los hombres (y mujeres) de Marajó han preservado su esencia extractivista y su convivencia armoniosa con el medio ambiente. Llegaron tecnologías, nuevos medios de transporte, incluso el búfalo (que llegó hace poco más de 100 años), elementos que se agregaron a una cultura consolidada en la simplicidad:</p><ul class='list-disc pl-5 mb-4 space-y-1 text-justify'><li>De ahí la existencia y mantenimiento del galpón de cerámica.</li><li>El ambiente rústico de la curtiduría de búfalos.</li><li>Las casas sobre palafitos de los caboclos que nos ofrecen el paseo en búfalo.</li><li>El ritmo y la danza típicos del Carimbó Marajoara.</li><li>Las áreas inundadas que se forman durante el invierno amazónico, predominantes de noviembre a mayo.</li></ul><p class='mb-4 text-justify'>Notablemente, en el municipio de Soure, ciertamente el más representativo de los elementos narrados anteriormente, existe una población hospitalaria con los turistas, pero que también vive de la recolección extractivista milenaria, el comercio, el empleo público y los servicios en un municipio de casi 40 mil habitantes.</p><p class='font-bold mb-1 text-primary'>El turismo representa una franja de la economía local.</p><p class='mb-4 text-justify'>Por lo tanto, no se incomode por la eventual ausencia de queso de búfala en la granja de su elección, o por qué el búfalo no está en esa playa para su paseo, o por qué los lugares son tan rústicos. Sepa que antes de usted ya vinieron miles en busca de este contenido aparentemente arcaico para un itinerario turístico. Pero este ambiente arcaico, milenario y tradicional es lo que hace de Soure en Marajó un destino obligatorio.</p><p class='font-bold mb-1 text-primary'>Dicho esto:</p><p class='text-justify'>Traiga ropa ligera y calzado adecuado (le daremos sugerencias), una mirada comprensiva ante la posible falta del queso producido en la isla a pequeña escala, y para los insectos que proliferan en la época de lluvias, ¡no olvide su repelente!</p>",
+                "schedule": "<p class='font-black text-primary mb-2 text-lg uppercase border-b border-orange-200 pb-1'>HORARIOS - PAQUETE DE HASTA 11 HORAS</p><p class='font-bold mb-1 mt-3'>Todos los días EXCEPTO DOMINGOS:</p><ul class='mb-4 space-y-1'><li><b>Recepción:</b> 05:30 AM, <b>partida:</b> 06:30 AM, <b>llegada a Soure:</b> 08:40 AM.</li><li><b>Inicio del regreso:</b> 01:00 PM, <b>llegada a Belém:</b> 03:30 PM, <b>su hotel:</b> 04:00 PM.</li></ul><p class='font-bold mb-1 mt-4 text-primary'>Los SÁBADOS:</p><ul class='space-y-1 mb-6'><li><b>Regreso:</b> 01:00 PM vía microbús al Puerto de Camará.</li><li><b>Partida del Puerto:</b> 02:30 PM, <b>llegada a Belém:</b> 05:00 PM, <b>su hotel:</b> 05:30 PM</li></ul><p class='font-black text-primary mb-1 text-lg uppercase border-b border-orange-200 pb-1'>HORARIOS - PAQUETE DE HASTA 36 HORAS*</p><p class='italic text-gray-600 mt-2'>* Consúltenos.</p>",
+                "details": {
+                    "title": "Detalles",
+                    "list": [
+                        { "name": "Duración: ", "value": "<b>Hasta 11 horas o 36 horas de recorrido</b>" },
+                        { "name": "Hotel de Alojamiento: ", "value": "<b>Según la DISPONIBILIDAD, BELA BELÉM le informará de las características e imágenes de los HOTELES para su ACEPTACIÓN.</b>" },
+                        { "name": "Paseos en Temporada Alta: ", "value": "<b>Precios sujetos a cambios con respecto a los publicados en este folleto.</b>" },
+                        { "name": "Nota: ", "value": "<b>El valor del paseo en búfalo o espacios de visita de pago no está incluido dada la eventual no disponibilidad el día de su recorrido. Le informamos que tienen BAJO valor/precio.</b>" }
+                    ]
+                },
+                "included": {
+                    "title": "Lo que está incluido",
+                    "list": [
+                        { "name": "", "value": "<b>Viaje en LANCHA o CATAMARÁN rápidos - registrados en la Marina Brasileña.</b>" },
+                        { "name": "", "value": "<b>TODOS los traslados y Servicios de Guía Turístico.</b>" },
+                        { "name": "", "value": "<b>Recepción en el hotel.</b>" },
+                        { "name": "", "value": "<b>Alojamiento con desayuno para los paseos de 36 horas.</b>" }
+                    ]
+                },
+                "notIncluded": {
+                    "title": "Lo que no está incluido",
+                    "list": [
+                        { "name": "", "value": "<b>Boletos de entrada de ningún tipo</b>" },
+                        { "name": "", "value": "<b>Itinerarios vendidos por proveedores locales</b>" }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "praia-de-salinas-e-salinopolis",
+            "titulo": "Playa de Salinas y Salinópolis",
+            "moreButton": "Sepa más",
+            "imgTitle": "/assets/Imagenslocal/salinas.png",
+            "imgSecundaria": "/assets/Imagenslocal2/salinas.jpeg",
+            "descricao": "Conocida popularmente como Salinas, Salinópolis guarda en la playa de Atalaia sus restaurantes junto al mar, sus arenas blancas y sus espacios gigantes ocupados con mucha gente hermosa y excelente ambiente.",
+            "precos": {
+                "title": "Precios y Duración:",
+                "list": [
+                    { "valor": 510, "duracao": "12 Horas de recorrido" }
+                ]
+            },
+            "more": {
+                "title": "BBOT realizará su recepción turística en su hotel a la hora acordada. <br>Viajaremos por carretera hacia la <b>Playa de Atalaia en Salinas</b>, el principal punto turístico del estado de Pará. Viajaremos poco más de 210 km hacia la gran región noreste de Pará, dotada de playas con formas diferentes a todo lo que haya visto. En Atalaia, disfrutaremos de un día espectacular en un lugar único.<br><br>Luego, visitaremos la Playa do Maçarico en la ciudad de Salinópolis, sus espacios de MUELLE marítimo, contenido artesanal, entre otras atracciones.",
+                "details": {
+                    "title": "Detalles",
+                    "list": [
+                        { "name": "Duración:", "value": "<b>Hasta 12 horas de recorrido</b>" }
+                    ]
+                },
+                "included": {
+                    "title": "Lo que está incluido",
+                    "list": [
+                        { "name": "", "value": "<b>Recepción en el hotel</b>" },
+                        { "name": "", "value": "<b>Todos los traslados y Servicios de Guía Turístico</b>" }
+                    ]
+                },
+                "notIncluded": {
+                    "title": "Lo que no está incluido",
+                    "list": [
+                        { "name": "", "value": "<b>Boletos de entrada de ningún tipo</b>" },
+                        { "name": "", "value": "<b>Alimentos y Bebidas</b>" }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "ver-o-boto",
+            "titulo": "Ver al Boto <br><span class=\"text-[16px] md:text-[19px] whitespace-nowrap\">(Municipio de Mocajuba/Pará)</span>",
+            "moreButton": "Sepa más",
+            "imgTitle": "/assets/Imagenslocal/boto.png",
+            "imgSecundaria": "/assets/Imagenslocal2/boto2.jpeg",
+            "imgTerciaria": "/assets/Imagenslocal2/boto3.jpeg",
+            "descricao": "En el Bajo Tocantins encontramos la presencia del magnífico Boto y su gracia única. Disfrute de un paseo en balsa por el bajo Tocantins y visite una casa cabocla con manantial de agua dulce, hospitalidad y cultura Ribereña.",
+            "precos": {
+                "title": "Precios y Duración:",
+                "list": [
+                    { "valor": 630, "duracao": "13 Horas de recorrido" }
+                ]
+            },
+            "more": {
+                "title": "Realizaremos su recepción turística en su hotel. Viajaremos por carretera durante 240 km hasta el municipio ribereño de <b>Mocajuba</b>, a orillas del río Tocantins, afluente del río Amazonas. En Mocajuba, visitaremos el Mirador del Boto donde tendremos una experiencia ÚNICA frente a una especie singular de nuestra fauna.<br><br>Luego, haremos un paseo en balsa por el Bajo Tocantins. Durante más de 2 horas exploraremos playas y canales en el hábitat natural del Boto. Visitaremos una casa ribereña con su 'ojo de agua' (manantial natural) en forma de piscina, donde podremos disfrutar de pescado, camarones y açaí típicos de la región.",
+                "details": {
+                    "title": "Detalles",
+                    "list": [
+                        { "name": "Duración:", "value": "<b>Hasta 13 horas de recorrido</b>" }
+                    ]
+                },
+                "included": {
+                    "title": "Lo que está incluido",
+                    "list": [
+                        { "name": "", "value": "<b>Recepción en el hotel</b>" },
+                        { "name": "", "value": "<b>Todos los traslados y Servicios de Guía Turístico</b>" },
+                        { "name": "", "value": "<b>Paseo en balsa por el bajo Tocantins</b>" }
+                    ]
+                },
+                "notIncluded": {
+                    "title": "Lo que no está incluido",
+                    "list": [
+                        { "name": "", "value": "<b>Boletos de entrada de ningún tipo</b>" },
+                        { "name": "", "value": "<b>Alimentos y Bebidas</b>" }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "ilha-do-algodoal",
+            "titulo": "Isla de Algodoal",
+            "moreButton": "Sepa más",
+            "imgTitle": "/assets/Imagenslocal/algodoal.jpg",
+            "imgSecundaria": "/assets/Imagenslocal2/algodoal2.jpeg",
+            "descricao": "La Isla de Algodoal, una de las islas oceánicas más grandes de Brasil, guarda en sus playas gigantes, cocoteros y manglares un rastro de cultura cabocla y alternativa al ritmo del Carimbó.",
+            "precos": {
+                "title": "Precios y Duración:",
+                "list": [
+                    { "valor": 630, "duracao": "12 Horas de recorrido" }
+                ]
+            },
+            "more": {
+                "title": "BBOT realizará su recepción turística en su hotel a la hora acordada. <br>Luego nos dirigiremos a la Isla de Algodoal por carretera a 190 km de su hotel cruzando la gran región noreste de Pará. En la ciudad de MARUDÁ haremos el cruce hacia la Isla de Algodoal, una de las islas marítimas brasileñas más bellas cerca de la costa.<br><br>Al atracar en la isla, nos dirigiremos a la <b>Playa de la Princesa</b> transportados por un carruaje costero en un camino mágico que pasa por el pueblo de Algodoal, canales y dunas frente al mar. En la Playa de la Princesa, disfrutaremos nuestro día en un espacio de playa infinita y restaurantes únicos.",
+                "details": {
+                    "title": "Detalles",
+                    "list": [
+                        { "name": "Duración: ", "value": "<b>Hasta 12 horas de recorrido</b>" }
+                    ]
+                },
+                "included": {
+                    "title": "Lo que está incluido",
+                    "list": [
+                        { "name": "", "value": "<b>Recepción en el hotel</b>" },
+                        { "name": "", "value": "<b>Todos los traslados y Servicios de Guía Turístico</b>" }
+                    ]
+                },
+                "notIncluded": {
+                    "title": "Lo que no está incluido",
+                    "list": [
+                        { "name": "", "value": "<b>Boletos de entrada de ningún tipo</b>" },
+                        { "name": "", "value": "<b>Alimentos y Bebidas</b>" }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "praia-de-ajuruteua",
+            "titulo": "Bragança y Playa de Ajuruteua",
+            "moreButton": "Sepa más",
+            "imgTitle": "/assets/Imagenslocal/ajuruteua.jpg",
+            "imgSecundaria": "/assets/Imagenslocal2/ajuruteua2.jpg",
+            "descricao": "El histórico municipio de Bragança guarda en su litoral la playa de Ajuruteua con sus arenas blancas, su armonía entre diversión y tranquilidad, todo esto con una infraestructura acogedora.",
+            "precos": {
+                "title": "Precios y Duración:",
+                "list": [
+                    { "valor": 560, "duracao": "12 Horas de recorrido" }
+                ]
+            },
+            "more": {
+                "title": "BBOT realizará su recepción turística en su hotel a la hora acordada. <br>Viajaremos por carretera hacia la magnífica <b>Playa de Ajuruteua</b> en el Municipio de Bragança – una playa gigante con un horizonte interminable, una invitación a caminar - ubicada a 250 km en la costa del histórico Municipio de Bragança, una de las cunas de la cultura y la gastronomía de Belém.<br><br>Ajuruteua tiene espectaculares restaurantes frente al mar, además de un súper paseo marítimo inaugurado en 2023. Un punto turístico poco conocido que Bela Belém ofrece para su DESCUBRIMIENTO.",
+                "details": {
+                    "title": "Detalles",
+                    "list": [
+                        { "name": "Duración: ", "value": "<b>Hasta 12 horas de recorrido</b>" }
+                    ]
+                },
+                "included": {
+                    "title": "Lo que está incluido",
+                    "list": [
+                        { "name": "", "value": "<b>Recepción en el hotel</b>" },
+                        { "name": "", "value": "<b>Todos los traslados y Servicios de Guía Turístico</b>" }
+                    ]
+                },
+                "notIncluded": {
+                    "title": "Lo que no está incluido",
+                    "list": [
+                        { "name": "", "value": "<b>Boletos de entrada de ningún tipo</b>" },
+                        { "name": "", "value": "<b>Alimentos y Bebidas</b>" }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "transfer",
+            "titulo": "Servicio de Traslado (Transfer)",
+            "moreButton": "Sepa más",
+            "imgTitle": "assets/Imagenslocal/transfer.jpeg",
+            "imgSecundaria": "/assets/Imagenslocal2/transfer2.jpeg",
+            "descricao": "BELA BELEM OT cuenta con una amplia estructura de traslados con vehículos equipados y profesionales experimentados.",
+            "precos": {
+                "title": "",
+                "list": []
+            },
+            "more": {
+                "title": "BELA BELEM OT cuenta con una amplia estructura de traslados con vehículos equipados y profesionales con experiencia en la logística del transporte.<br><br><b>Estamos listos para llevarlo en los siguientes traslados:</b><br><br>• AEROPUERTO / HOTEL / AEROPUERTO<br>• HOTEL-AEROPUERTO / DESTINO TURÍSTICO / HOTEL-AEROPUERTO",
+                "details": {
+                    "title": "Detalles",
+                    "list": [
+                        { "name": "Disponibilidad:", "value": "<b>Bajo consulta y programación previa.</b>" }
+                    ]
+                },
+                "included": {
+                    "title": "Lo que está incluido",
+                    "list": [
+                        { "name": "", "value": "<b>Vehículos adecuados al tamaño de su grupo</b>" },
+                        { "name": "", "value": "<b>Profesionales acreditados por organismos reguladores</b>" },
+                        { "name": "", "value": "<b>Guía en idioma extranjero (según su solicitud)</b>" }
+                    ]
+                },
+                "notIncluded": {
+                    "title": "",
+                    "list": []
+                }
+            }
+        }
+    ],
+    "duvidas": {
+        "titulo": "Preguntas Frecuentes",
+        "subtitulo": "Consulte información esencial antes de reservar",
+        "pagamento": {
+            "titulo": "Formas de pago",
+            "antecipado": "Pago Anticipado (20%)",
+            "local": "Restante/Saldo (80% en la Recepción)",
+            "listaAntecipado": {
+                "1": "PIX – CON EL ENVÍO DE LA CLAVE PIX DE BBOT.",
+                "2": "TARJETA DE CRÉDITO AL CONTADO: Vía Enlace de Pago (recargo del 4,2%)."
+            },
+            "listaLocal": {
+                "1": "PIX – CON EL ENVÍO DE LA CLAVE PIX DE BBOT.",
+                "2": "EFECTIVO EN MONEDA LOCAL (REAL), DÓLAR o EURO.",
+                "3": "TARJETA DE CRÉDITO AL CONTADO: Vía Enlace de Pago o terminal de tarjeta (recargo del 4,2%).",
+                "4": "TARJETA DE CRÉDITO EN CUOTAS: Vía Enlace de Pago o terminal (recargo del 4,2% + INTERESES DEL PERÍODO).",
+                "5": "PAYPAL: Pago a través de PayPal."
+            }
+        },
+        "regulamentacao": {
+            "titulo": "Reglamentos y Condiciones Generales",
+            "valores_grupos": {
+                "titulo": "Valores y Grupos",
+                "txt1": "TODOS LOS PRECIOS SON POR PERSONA/INDIVIDUALES y para grupos de 02 personas. ¿Su grupo es MAYOR? ¡El precio será MENOR! Consúltenos.",
+                "txt2": "¿Está usted SOLO(A)? Consúltenos, le atenderemos CON UN PRECIO DIFERENTE AL PUBLICADO EN ESTE SITIO:<br>a) de forma exclusiva/privada <br>o<br>b) le incluimos en un recorrido de su elección, dependiendo de la disponibilidad.",
+                "txt3": "Los niños de hasta 02 años no pagan. Los niños entre 03 y 10 años pagan el equivalente al 50% del precio unitario del paquete turístico SIEMPRE QUE estén acompañados por al menos dos (02) adultos."
+            },
+            "horarios": {
+                "titulo": "Horarios",
+                "txt1": "Trabajamos con HORARIOS FLEXIBLES. Estamos comprometidos con el tiempo TOTAL del recorrido contratado. Horarios de referencia: recogida EN el hotel o evento y regreso AL hotel o evento."
+            },
+            "pagamentos": {
+                "titulo": "Pagos",
+                "txt1": "Solicitamos un PAGO ANTICIPADO del 20% del valor del paquete turístico contratado EN LA CONFIRMACIÓN DEL RECORRIDO/PAQUETE. El saldo restante del 80% DEBE ser pagado HASTA la recepción en el hotel en el momento que marca el inicio de los servicios contratados.",
+                "txt2": "Para el destino Isla MARAJÓ, habrá necesidad de un PAGO ANTICIPADO definido caso por caso."
+            },
+            "cancelamentos": {
+                "titulo": "Cancelaciones",
+                "txt1": "Si se solicita la cancelación hasta 07 días antes del inicio del recorrido turístico, los montos pagados por adelantado NO serán objeto de devolución.",
+                "txt2": "En caso de CANCELACIÓN del recorrido por parte de BELA BELÉM OT, BELA BELÉM OT devuelve TODOS los montos recibidos en concepto de anticipo.",
+                "txt3": "Solicitud de cancelación iniciada por el cliente debido a: retraso en el aeropuerto o razones de salud; Ambos comprobados por documentos regulares, tendrán sus valores íntegramente devueltos, incluso dentro del plazo de 07 días del inicio del paquete contratado."
+            },
+            "guias": {
+                "titulo": "Guías Turísticos",
+                "txt1": "Los recorridos con Guía en idioma extranjero tendrán un incremento de precio definido caso por caso."
+            },
+            "refeicoes": {
+                "titulo": "Comidas",
+                "txt1": "No están incluidos el ALMUERZO ni ninguna otra comida o bebida en ninguno de los paquetes turísticos comercializados por BELA BELEM OT."
+            },
+            "deslocamento": {
+                "titulo": "Desplazamiento",
+                "txt1": "Si se aloja: en la Avenida Júlio César, a más de 08 km del Ver-o-Peso, o fuera del municipio de Belém, su precio por PAQUETE turístico se incrementará en R$ 30 por PERSONA, salvo excepciones previa consulta."
+            },
+            "comunicacao": {
+                "titulo": "Comunicación y Programación",
+                "txt1": "Toda la COMUNICACIÓN del cliente con BELA BELEM OT será conducida y formalizada a través de WHATSAPP con el envío de un PROSPECTO DE CONFIRMACIÓN/PROGRAMACIÓN donde constarán todos los DATOS del paseo y forma de pago."
+            }
+        }
+    },
+    "login": {
+        "intro": {
+            "parte1": "Bela Belém Turismo opera con personas de todas las edades, orígenes y matrices culturales, valorando la diversidad y la hospitalidad.",
+            "destaque": "Nuestro compromiso es proporcionar experiencias Turísticas a medida al turista visitante,",
+            "parte2": "conectando CULTURA, NATURALEZA y VIVENCIAS genuinas de la AMAZONÍA PARAENSE."
+        }
+    },
+    "footer": {
+        "rights": "© 2026 Bela Belém Turismo - Todos los derechos reservados"
+    },
+    "menu": {
+        "instagram": "Nuestro Instagram",
+        "whatsapp": "Nuestro WhatsApp",
+        "duvidas": "Dudas (FAQ)"
+    },
+    "reserva": {
+        "instagram": "Reservar por Instagram",
+        "whatsapp": "Reservar por WhatsApp",
+        "titulo": "Reserva de Paquete Turístico",
+        "form": {
+            "nome": "👉¿Cuál es su nombre?",
+            "numero": "👉¿Cuál es su número de teléfono celular con código de país?",
+            "hotel": "👉¿Cuál es su hotel de alojamiento actual (número de habitación) o lugar de estancia?",
+            "pessoas": "👉¿Cuál es el número de personas en su grupo? ¿O viaja solo(a)?",
+            "destinos": "👉¿Cuál es su Paquete(s) de interés?",
+            "datas": "👉¿Cuál es la fecha(s) de interés?",
+            "detalhes": "👉¿Existen cuidados especiales a tener en cuenta para su grupo o persona?🎯",
+            "enviar": "Enviar",
+            "cancelar": "Cancelar"
+        }
+    },
+    "labels": {
+        "por_pessoa": "por persona"
+    },
+    "secao_pagamento": {
+        "titulo": "Formas de pago",
+        "pix": "PIX – CON EL ENVÍO DE LA CLAVE PIX DE BBOT.",
+        "credito_vista": "TARJETA DE CRÉDITO AL CONTADO:",
+        "credito_vista_desc": "Vía Enlace de Pago, o vía Terminal: recargo del 4,2%.",
+        "credito_parc": "TARJETA DE CRÉDITO EN CUOTAS:",
+        "credito_parc_desc": "Vía Enlace de Pago, o vía Terminal: recargo del 4,2% + INTERESES DEL PERÍODO.",
+        "dinheiro": "EFECTIVO EN MONEDA LOCAL (REAL), DÓLAR o EURO.",
+        "paypal": "Vía PayPal."
+    },
+    "tour_page": {
+        "aviso_regulamento": "Antes de realizar cualquier reserva, por favor consulte nuestras formas de pago y reglamentos:"
+    }
+}

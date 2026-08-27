@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://belabelemturismo.com.br/sitemap.xml

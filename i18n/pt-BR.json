@@ -1,0 +1,630 @@
+{
+    "pages": {
+        "home": {
+            "principaldest": "Nossos Pacotes Turísticos"
+        },
+        "regulamentation": {
+            "title": "FORMAS DE PAGAMENTO E REGULAMENTO"
+        }
+    },
+    "tours": [
+        {
+            "id": "city-tour-belem-para",
+            "titulo": "City Tour - Belém/ ou Icoaraci ou ambas",
+            "moreButton": "Saiba mais",
+            "imgTitle": "/assets/Imagenslocal/pacotecitytour.jpeg",
+            "imgSecundaria": "/assets/Imagenslocal2/city tour2.jpg",
+            "descricao": "Explore os principais pontos turísticos de Belém em um passeio guiado pela cidade. Conheça a história, cultura e belezas naturais da capital paraense.",
+            "precos": {
+                "title": "Preços e Durações:",
+                "list": [
+                    { "valor": 350, "duracao": "09 Horas de passeio" },
+                    { "valor": 270, "duracao": "05 Horas de passeio" },
+                    {
+                        "valor": 380,
+                        "duracao": "10 Horas de passeio <br><span class=\"text-[13px] md:text-[15px] font-normal\">(Belém + Icoaraci)</span>"
+                    },
+                    {
+                        "valor": 280,
+                        "duracao": "05 Horas de passeio <br><span class=\"text-[13px] md:text-[15px] font-normal\">(Exclusivo Icoaraci)</span>"
+                    }
+                ]
+            },
+            "more": {
+                "title": "A BBOT fará seu receptivo turístico no seu hotel a qualquer hora (a combinar).<br><br>Seguiremos então para espaços zoobotânicos, culturais, históricos e populares, como:<br><b>Parque do Utinga, Espaço São José Liberto, Portal da Amazônia, Mangal das Garças, Espaço Feliz Lusitânia (Forte do Presépio, Igreja de São Alexandre, Catedral da Sé e Casa das Onze Janelas), Basílica de Nazaré, Ver-o-Peso, Estação das Docas, Museu Emílio Goeldi e Teatro da Paz</b>, entre outros.<br><br>Para você que possui interesse genuíno na Cerâmica Marajoara, possuímos conteúdo de visitação à localidade do <b>Paracuri e Orla de Icoaraci – berços da cultura ceramista.</b> O distrito também nos reserva restaurantes e peixarias com vista para a Baía do Marajó, tudo isso localizado a 20 km do centro de Belém por via urbana.",
+                "details": {
+                    "title": "Detalhes",
+                    "list": [
+                        { "name": "Duração: ", "value": "<b>De 05 horas até 10 horas de passeio</b>" },
+                        { "name": "Atenção: ", "value": "<b>O rol de destinos acima é ilustrativo. Sua visitação depende da carga horária contratada, da disponibilidade de visitação ao local e do interesse e perfil do cliente.</b>" }
+                    ]
+                },
+                "included": {
+                    "title": "O que está incluso",
+                    "list": [
+                        { "name": "", "value": "<b>Receptivo Hoteleiro</b>" },
+                        { "name": "", "value": "<b>Todos os traslados e serviços de Guia Turístico</b>" }
+                    ]
+                },
+                "notIncluded": {
+                    "title": "O que não está incluso",
+                    "list": [
+                        { "name": "", "value": "<b>Ingressos de nenhuma espécie</b>" },
+                        { "name": "", "value": "<b>Alimentação e Bebidas</b>" }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "ilha-de-mosqueiro",
+            "titulo": "Ilha de Mosqueiro",
+            "moreButton": "Saiba mais",
+            "imgTitle": "/assets/Imagenslocal/ilhademosqueiro.jpg",
+            "imgSecundaria": "/assets/Imagenslocal2/ilhademosqueiro2.jpeg",
+            "descricao": "A maior ilha de Belém, um verdadeiro paraíso de águas doces, com praias banhadas pela Baía do Marajó e restaurantes que oferecem o melhor da culinária paraense, rica em sabores únicos e tradições locais.",
+            "precos": {
+                "title": "Preços e Durações:",
+                "list": [
+                    { "valor": 350, "duracao": "10 Horas de passeio" }
+                ]
+            },
+            "more": {
+                "title": "A BBOT fará seu receptivo turístico no seu hotel em horário combinado. Seguiremos para a Ilha de Mosqueiro em via rodoviária (aprox. 70 km), uma oportunidade de conhecermos a Belém Metrópole.<br><br>Na ilha, visitaremos a <b>Vila de Mosqueiro</b>: a Igreja de Nossa Senhora do Ó, o Mercado Municipal e o Mercado da Tapioca. Em seguida, vamos visitar praias de água doce como a do <b>Farol, Chapéu Virado, Murubira, Ariramba e, finalmente, a Praia do Paraíso.</b><br><br>Todas encantadoramente estruturadas às margens da gigantesca Baía do Marajó, dotadas de restaurantes prontos com formas e conteúdos únicos no Brasil!",
+                "details": {
+                    "title": "Detalhes",
+                    "list": [
+                        { "name": "Duração: ", "value": "<b>Até 10 horas de passeio</b>" }
+                    ]
+                },
+                "included": {
+                    "title": "O que está incluso",
+                    "list": [
+                        { "name": "", "value": "<b>Receptivo Hoteleiro</b>" },
+                        { "name": "", "value": "<b>Todos os traslados e Serviços de Guia Turístico</b>" }
+                    ]
+                },
+                "notIncluded": {
+                    "title": "O que não está incluso",
+                    "list": [
+                        { "name": "", "value": "<b>Ingressos de nenhuma espécie</b>" },
+                        { "name": "", "value": "<b>Alimentação e Bebidas</b>" }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "ilha-do-combu",
+            "titulo": "Ilha do Combu",
+            "moreButton": "Saiba mais",
+            "imgTitle": "/assets/Imagenslocal/ilhadocombu.jpg",
+            "imgSecundaria": "/assets/Imagenslocal2/ilhadocombu2.jpg",
+            "descricao": "A Ilha do Combu é famosa por seus chocolates artesanais e passeios de barco pelos igarapés. Um lugar encantador para relaxar e saborear a culinária local.",
+            "precos": {
+                "title": "Preços e Durações:",
+                "list": [
+                    { "valor": 390, "duracao": "09 Horas de passeio" }
+                ]
+            },
+            "more": {
+                "title": "A BBOT fará seu receptivo turístico no seu hotel ou local de hospedagem em horário combinado. Em seguida, em região portuária, embarcaremos em lancha devidamente registrada junto à Marinha do Brasil.<br><br>Iniciaremos nosso passeio de lancha para o chamado <b>Encontro dos Rios ou a Prainha</b> (a depender da maré), onde presenciaremos a dimensão fluvial de nossa capital. Em seguida, navegaremos até o Furo do Paciência e o Igarapé do Piriquitaquara, aportando na casa de cultura ribeirinha <b>Ygara</b>, onde caminharemos na mata envoltos em lendas e costumes caboclos. Aprenderemos sobre a sua flora e fauna e teremos contato com objetos artesanais típicos da Amazônia.<br><br>Adiante, visitaremos a fábrica e loja de chocolate da Dona Nena, a <b>Filha do Combu</b>, orgulho local e referência nacional na fabricação de chocolate 100%. Finalmente, aportaremos em um restaurante selecionado, com piscina natural na maré e amplos espaços para banho e culinária típica.",
+                "details": {
+                    "title": "Detalhes",
+                    "list": [
+                        { "name": "Duração: ", "value": "<b>Até 09 horas de passeio</b>" }
+                    ]
+                },
+                "included": {
+                    "title": "O que está incluso",
+                    "list": [
+                        { "name": "", "value": "<b>Receptivo Hoteleiro</b>" },
+                        { "name": "", "value": "<b>Todos os traslados e Serviços de Guia Turístico</b>" }
+                    ]
+                },
+                "notIncluded": {
+                    "title": "O que não está incluso",
+                    "list": [
+                        { "name": "", "value": "<b>Ingressos de nenhuma espécie</b>" },
+                        { "name": "", "value": "<b>Alimentação e Bebidas</b>" }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "ilha-do-combu-executivo",
+            "titulo": "Ilha do Combu Executivo",
+            "moreButton": "Saiba mais",
+            "imgTitle": "/assets/Imagenslocal/combuexecutivo.jpeg",
+            "imgSecundaria": "/assets/Imagenslocal2/combuexecutivo2.jpg",
+            "descricao": "O pacote Ilha do Combu Executivo é ideal para quem deseja vivenciar a riqueza da cultura ribeirinha de forma prática, aproveitando o melhor da experiência mesmo com tempo reduzido.",
+            "precos": {
+                "title": "Preços e Durações:",
+                "list": [
+                    { "valor": 310, "duracao": "05 Horas de passeio" }
+                ]
+            },
+            "more": {
+                "title": "A BBOT fará seu receptivo turístico no seu hotel, local de hospedagem ou evento. Em seguida, você será conduzido à região portuária de onde partiremos, via lancha regularmente registrada na Marinha do Brasil.<br><br>Iniciaremos nosso passeio de lancha para o <b>Encontro dos Rios ou a Prainha</b> (a depender da maré), onde presenciaremos a dimensão fluvial de nossa capital. Em seguida, caminharemos na mata em pequena e rica trilha envoltos em lendas e costumes caboclos, aprendendo sobre a flora e fauna.<br><br>Adiante, visitaremos a fábrica/loja <b>A Filha do Combu</b> com seu chocolate 100% mundialmente apreciado. Finalmente, aportaremos em um restaurante selecionado, onde você poderá usufruir de piscinas na maré em ambiente de mata genuína. Após o almoço, retornaremos ao seu hotel ou evento com todo o conforto.",
+                "details": {
+                    "title": "Detalhes",
+                    "list": [
+                        { "name": "Duração: ", "value": "<b>Até 05 horas de passeio</b>" },
+                        { "name": "Atenção:", "value": " <b>Disponível todos os dias" }
+                    ]
+                },
+                "included": {
+                    "title": "O que está incluso",
+                    "list": [
+                        { "name": "", "value": "<b>Receptivo Hoteleiro</b>" },
+                        { "name": "", "value": "<b>Todos os traslados e Serviços de Guia Turístico</b>" }
+                    ]
+                },
+                "notIncluded": {
+                    "title": "O que não está incluso",
+                    "list": [
+                        { "name": "", "value": "<b>Ingressos de nenhuma espécie</b>" },
+                        { "name": "", "value": "<b>Alimentação e Bebidas</b>" }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "super-combu-e-ilha-grande",
+            "titulo": "Super Ilhas do Combu, Murutucu & Ilha Grande",
+            "moreButton": "Saiba mais",
+            "imgTitle": "/assets/Imagenslocal/supercombu.jpg",
+            "imgSecundaria": "/assets/Imagenslocal2/supercombu2.jpg",
+            "descricao": "O pacote Super Combu e Outras Ilhas é feito sob medida para quem deseja uma experiência ainda mais completa, explorando de forma aprofundada a riqueza da vida ribeirinha de Belém.",
+            "precos": {
+                "title": "Preços e Durações:",
+                "list": [
+                    { "valor": 430, "duracao": "09 Horas de passeio" }
+                ]
+            },
+            "more": {
+                "title": "Faremos seu receptivo turístico no seu hotel ou local de hospedagem. Em região portuária, embarcaremos em lancha regular junto à Marinha do Brasil.<br><br>Este passeio é para você que deseja explorar numa dimensão ainda mais ampla, para além da Ilha do Combu, desejoso de espaços exclusivos em um roteiro onde incluímos as preservadas <b>Ilhas do Murutucu e Ilha Grande</b>, além de área de terra firme no município do <b>Acará</b>, com vistas a ampliar sua visão da vida e dinâmica econômica da comunidade ribeirinha local.<br><br>Iniciaremos nosso passeio de lancha pela chamada <b>Prainha no Rio São Benedito</b> (a depender da maré), onde presenciaremos a formação de bancos de areia em área de encontro de rios. Adiante visitaremos o folclórico mestre caboclo Ladi com seu carisma e conhecimento únicos da flora amazônica na comunidade do Acará. Em seguida, visitaremos a casa de cultura ribeirinha Ygara com seu conteúdo de fauna e flora locais, além do artesanato produzido pelos originários de toda a região do arquipélago. Nosso roteiro inclui visita ao espaço da Filha do Combu e seu chocolate 100%.<br><br>Finalmente, vamos desfrutar de espaços com rica gastronomia e piscinas na maré nas ilhas do Murutucu, Ilha Grande ou Combu – a depender da disponibilidade.",
+                "details": {
+                    "title": "Detalhes",
+                    "list": [
+                        { "name": "Duração: ", "value": "<b>Até 09 horas de passeio</b>" },
+                        { "name": "ATENÇÃO: ", "value": "<b>Disponível todos os dias</b>" }
+                    ]
+                },
+                "included": {
+                    "title": "O que está incluso",
+                    "list": [
+                        { "name": "", "value": "<b>Receptivo Hoteleiro</b>" },
+                        { "name": "", "value": "<b>Todos os traslados e Serviços de Guia Turístico</b>" }
+                    ]
+                },
+                "notIncluded": {
+                    "title": "O que não está incluso",
+                    "list": [
+                        { "name": "", "value": "<b>Ingressos de nenhuma espécie</b>" },
+                        { "name": "", "value": "<b>Alimentação e Bebidas</b>" }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "ilha-dos-papagaios",
+            "titulo": "Ilha dos Papagaios <br><span class=\"text-xl\">(Revoada dos Papagaios)</span>",
+            "moreButton": "Saiba mais",
+            "imgTitle": "/assets/Imagenslocal/ilhadospapagaios.jpg",
+            "imgSecundaria": "/assets/Imagenslocal2/ilhadospapagaios2.jpg",
+            "imgTerciaria": "/assets/Imagenslocal2/ilhadospapagaios3.jpeg",
+            "descricao": "A Ilha dos Papagaios é um verdadeiro santuário natural, lar das aves que lhe dão nome, e palco do impressionante fenômeno das revoadas ao nascer e ao pôr do sol.",
+            "precos": {
+                "title": "Preços e Durações:",
+                "list": [
+                    {
+                        "valor": 390,
+                        "duracao": "05 Horas de passeio <br><span class=\"text-[13px] md:text-[15px] font-normal\">(Nascer do Sol)</span>"
+                    },
+                    {
+                        "valor": 290,
+                        "duracao": "03 Horas de passeio <br><span class=\"text-[13px] md:text-[15px] font-normal\">(Pôr do Sol)</span>"
+                    }
+                ]
+            },
+            "more": {
+                "title": "Faremos seu receptivo turístico no seu hotel ou local combinado. Em região portuária, embarcaremos em lancha regular junto à Marinha do Brasil.<br><br>Este passeio é para você que deseja explorar a <b>Revoada dos Papagaios na Ilha dos Papagaios</b> e quer vivenciar uma manhã ou fim de tarde no ambiente de vida cabocla do ribeirinho amazônico. A revoada dos papagaios é um fenômeno que ocorre todas as manhãs às 06:00 e às 18:00 da tarde. Presenciaremos o espetáculo dos pássaros no seu horário desejado.<br><br><b>No roteiro Nascer do Sol:</b> o café da manhã é feito na casa de cultura ribeirinha Ygara, o que nos permitirá, para além do aprendizado das lendas e mitologias locais, um caminhar na mata com sua diversidade de fauna e flora. Para o passeio Nascer do Sol, visitaremos ao fim a casa Filha do Combu com seu chocolate 100%.<br><br><b>Para você que optou pelo Pôr do Sol:</b> a exemplo do Nascer do Sol, navegaremos pelas entranhas da vida ribeirinha no Furo do Maracujá. O retorno é noturno com as luzes da metrópole ao fundo.",
+                "details": {
+                    "title": "Detalhes",
+                    "list": [
+                        { "name": "Duração - <b>Nascer do Sol:</b> ", "value": "<b>Até 05 horas de passeio</b>" },
+                        { "name": "Duração - <b>Pôr do Sol:</b> ", "value": "<b>Até 03 horas de passeio</b>" },
+                        { "name": "", "value": "<b>Disponível todos os dias</b>" }
+                    ]
+                },
+                "included": {
+                    "title": "O que está incluso",
+                    "list": [
+                        { "name": "", "value": "<b>Receptivo Hoteleiro</b>" },
+                        { "name": "", "value": "<b>Café da manhã para o passeio do Nascer do Sol</b>" },
+                        { "name": "", "value": "<b>Todos os Traslados e Serviços de Guia Turístico</b>" }
+                    ]
+                },
+                "notIncluded": {
+                    "title": "O que não está incluso",
+                    "list": [
+                        { "name": "", "value": "<b>Ingressos de nenhuma espécie</b>" }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "ilha-de-cotijuba",
+            "titulo": "Ilha de Cotijuba",
+            "moreButton": "Saiba mais",
+            "imgTitle": "/assets/Imagenslocal/ilhadecontijuba.png",
+            "imgSecundaria": "/assets/Imagenslocal2/Ilhadecotijuba.png",
+            "imgTerciaria": "/assets/Imagenslocal2/ilhadecontijuba3.png",
+            "descricao": "A Ilha de Cotijuba é para você que deseja um espaço de aventura onde a liberdade de comportamento é movida por Motorretes e banhada pela carismática Praia do Vai Quem Quer.",
+            "precos": {
+                "title": "Preços e Durações:",
+                "list": [
+                    { "valor": 350, "duracao": "11 Horas de passeio" }
+                ]
+            },
+            "more": {
+                "title": "A BBOT fará o seu receptivo turístico no seu hotel ou local de hospedagem em horário combinado. Seguiremos então para a região portuária de Icoaraci, distrito de Belém do Pará, com destino à Ilha de Cotijuba. Em seguida, embarcaremos em navio ou lancha autorizados pela Marinha do Brasil.<br><br>Após um tempo médio de 30 minutos a 01 hora de viagem pela Baía do Guajará e furos de ilhas, aportaremos na Ilha de Cotijuba. De lá, seguiremos rumo à <b>Praia do Vai Quem Quer</b>, uma espetacular praia banhada pela Baía do Marajó (baía de água doce), alternando momentos de ondas para surfistas e calmaria de piscina num ambiente único, cercado de restaurantes de culinária típica local. Tudo isso em uma ilha onde encontraremos charretes conduzidas por motos pelos caminhos de mata e espaços urbanizados. Uma verdadeira AVENTURA!",
+                "details": {
+                    "title": "Detalhes",
+                    "list": [
+                        { "name": "Duração: ", "value": "<b>Até 11 horas de passeio</b>" }
+                    ]
+                },
+                "included": {
+                    "title": "O que está incluso",
+                    "list": [
+                        { "name": "", "value": "<b>Receptivo Hoteleiro</b>" },
+                        { "name": "", "value": "<b>Todos os traslados e Serviços de Guia Turístico</b>" }
+                    ]
+                },
+                "notIncluded": {
+                    "title": "O que não está incluso",
+                    "list": [
+                        { "name": "", "value": "<b>Ingressos de nenhuma espécie</b>" },
+                        { "name": "", "value": "<b>Alimentação e Bebidas</b>" }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "ilha-de-marajo",
+            "titulo": "Ilha do Marajó (Soure)",
+            "moreButton": "Saiba mais",
+            "imgTitle": "/assets/Imagenslocal/ilhadomarajo.jpg",
+            "imgSecundaria": "/assets/Imagenslocal2/ilhadomarajo2.jpeg",
+            "imgTerciaria": "/assets/Imagenslocal2/ilhadomarajo3.jpeg",
+            "descricao": "A maior ilha fluviomarinha do mundo, o Marajó é conhecido por suas paisagens únicas, búfalos e artesanato em cerâmica. Um destino imperdível para quem visita o Pará.",
+            "precos": {
+                "title": "Preços e Durações:",
+                "list": [
+                    { "valor": 790, "duracao": "36 Horas de passeio" },
+                    { "valor": 530, "duracao": "11 Horas de passeio" }
+                ]
+            },
+            "more": {
+                "title": "A BBOT fará seu receptivo em horário a combinar. Seguiremos para a Ilha do Marajó via Terminal Hidroviário de Belém com destino à cidade de Soure. Na ilha, com nosso guia local, visitaremos curtumes, espaço cerâmico, espaços com ocorrência bufalina, fazenda de queijo de búfala e doces de leite, além das magníficas praias de <b>Barra Velha e Pesqueira</b>, entre outros espaços e eventos na medida da disponibilidade.",
+                "important": "<p class='font-bold text-lg mb-2 text-amber-800'>Importante Saber!</p><p class='mb-4 text-justify'>A Ilha do Marajó possui uma ocupação comprovada de pelo menos 6.000 anos. Isso mesmo, existem achados da Cerâmica produzida na ilha há 5.500 anos antes do dito Descobrimento! A história definitivamente possui pontos de vista!</p><p class='font-bold mb-1 text-primary'>E por que falamos disto?</p><p class='mb-2 text-justify'>Porque por milênios o homem (e a mulher) marajoara preservaram sua essência extrativista e de harmônico convívio com seu meio. As tecnologias vieram, novos modais de transporte, até o búfalo (que chegou há pouco mais de 100 anos), elementos que se agregaram a uma cultura consolidada na simplicidade:</p><ul class='list-disc pl-5 mb-4 space-y-1 text-justify'><li>Daí a existência e manutenção do galpão cerâmico.</li><li>Da ambiência rústica do curtume bufalino.</li><li>Das localidades sob palafitas do caboclo que nos oferecem a montaria do búfalo.</li><li>Da batida e dança típicas dos terreiros de Carimbó Marajoara.</li><li>Dos alagados que se formam no inverno amazônico preponderantes de novembro a maio.</li></ul><p class='mb-4 text-justify'>Notadamente, no município de Soure, certamente o mais representativo dos elementos narrados acima, sobrevenha uma população hospitaleira ao turista, mas que também vive da coleta extrativista milenar, do comércio, do emprego público e dos serviços em um município de quase 40 mil habitantes.</p><p class='font-bold mb-1 text-primary'>O turismo representa uma franja da economia local.</p><p class='mb-4 text-justify'>Portanto, não se incomode com a eventual ausência de queijo bufalino na fazenda de sua escolha, do porquê que o búfalo não está naquela praia para a sua montaria, e do porquê de lugares tão rústicos. Saiba que antes de você já vieram milhares a busca deste conteúdo aparentemente arcaico para um roteiro turístico. Mas esse arcaico, milenar e tradicional é que fazem de Soure no Marajó destino obrigatório.</p><p class='font-bold mb-1 text-primary'>Dito isto:</p><p class='text-justify'>Traga roupas leves e sapato adequado (daremos a dica), um olhar de compreensão frente a eventual inexistência do queijo produzido na ilha em baixa escala, e para os insetos que se proliferam na época chuvosa não esqueça do repelente!</p>",
+                "schedule": "<p class='font-black text-primary mb-2 text-lg uppercase border-b border-orange-200 pb-1'>HORÁRIOS - PACOTE ATÉ 11 HORAS</p><p class='font-bold mb-1 mt-3'>Todos os dias EXCETO DOMINGO:</p><ul class='mb-4 space-y-1'><li><b>Receptivo:</b> 05:30, <b>partida:</b> 06:30, <b>chegada/ Soure:</b> 08:40.</li><li><b>Início do retorno:</b> 13:00, <b>chegada/Belém:</b> 15:30, <b>seu hotel:</b> 16:00.</li></ul><p class='font-bold mb-1 mt-4 text-primary'>Aos SÁBADOS:</p><ul class='space-y-1 mb-6'><li><b>Retorno:</b> 13:00 horas via micro-ônibus para Porto de Camará.</li><li><b>Partida do Porto:</b> 14:30, <b>chegada em Belém:</b> 17:00, <b>seu hotel:</b> 17:30</li></ul><p class='font-black text-primary mb-1 text-lg uppercase border-b border-orange-200 pb-1'>HORÁRIOS - PACOTE ATÉ 36 HORAS*</p><p class='italic text-gray-600 mt-2'>* Nos consulte.</p>",
+                "details": {
+                    "title": "Detalhes",
+                    "list": [
+                        { "name": "Duração: ", "value": "<b>Até 11 horas ou 36 horas de passeio</b>" },
+                        { "name": "Hotel de Hospedagem: ", "value": "<b>De acordo com a DISPONIBILIDADE, com a  BELA BELÉM informando características e imagens dos  HOTÉIS para seu ACEITE..</b>" },
+                        { "name": "Passeios em Alta Temporada: ", "value": "<b>Preços sujeitos a alteração do publicado neste folheto.</b>" },
+                        { "name": "Observação: ", "value": "<b>Não está incluso o valor de montaria de búfalo ou de visitação a espaços  de visitação pago dado eventual não disponibilidade no dia do seu passeio. Informamos que possuem BAIXO valor/preço.</b>" }
+                    ]
+                },
+                "included": {
+                    "title": "O que está incluso",
+                    "list": [
+                        { "name": "", "value": "<b>Viagem em LANCHA ou CATAMARÃ RÁPIDOS - registrados junto a Marinha Brasileira.</b>" },
+                        { "name": "", "value": "<b>TODOS os traslados e serviços de Guia Turístico.</b>" },
+                        { "name": "", "value": "<b>Receptivo Hoteleiro.</b>" },
+                        { "name": "", "value": "<b>Hospedagem com café da manhã para passeios de 36 horas.</b>" }
+                    ]
+                },
+                "notIncluded": {
+                    "title": "O que não está incluso",
+                    "list": [
+                        { "name": "", "value": "<b>Ingressos de nenhuma espécie</b>" },
+                        { "name": "", "value": "<b>Roteiros comercializados por prestadores locais</b>" }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "praia-de-salinas-e-salinopolis",
+            "titulo": "Praia de Salinas e Salinópolis",
+            "moreButton": "Saiba mais",
+            "imgTitle": "/assets/Imagenslocal/salinas.png",
+            "imgSecundaria": "/assets/Imagenslocal2/salinas.jpeg",
+            "descricao": "Conhecida popularmente como Salinas, Salinópolis guarda na praia do Atalaia seus restaurantes à beira mar, suas areias brancas e seus espaços gigantes ocupados com muita gente bonita e alto astral.",
+            "precos": {
+                "title": "Preços e Durações:",
+                "list": [
+                    { "valor": 510, "duracao": "12 Horas de passeio" }
+                ]
+            },
+            "more": {
+                "title": "A BBOT fará seu receptivo turístico no seu hotel em horário combinado. <br>Seguiremos por via rodoviária para a <b>Praia do Atalaia em Salinas</b> – principal point turístico do estado do Pará. Viajaremos por pouco mais de 210 km no sentido da grande região nordeste do Pará, dotada de praias com formas diferentes de tudo que você já viu. No Atalaia, desfrutaremos de um dia espetacular em um lugar único.<br><br>Em seguida, visitaremos a Praia do Maçarico na cidade de Salinópolis, seus espaços de PIER marítimo, conteúdo artesanal entre outros conteúdos.",
+                "details": {
+                    "title": "Detalhes",
+                    "list": [
+                        { "name": "Duração:", "value": "<b>Até 12 horas de passeio</b>" }
+                    ]
+                },
+                "included": {
+                    "title": "O que está incluso",
+                    "list": [
+                        { "name": "", "value": "<b>Receptivo Hoteleiro</b>" },
+                        { "name": "", "value": "<b>Todos os traslados e Serviços de Guia Turístico</b>" }
+                    ]
+                },
+                "notIncluded": {
+                    "title": "O que não está incluso",
+                    "list": [
+                        { "name": "", "value": "<b>Ingressos de nenhuma espécie</b>" },
+                        { "name": "", "value": "<b>Alimentação e Bebidas</b>" }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "ver-o-boto",
+            "titulo": "Ver o Boto <br><span class=\"text-[16px] md:text-[19px] whitespace-nowrap\">(Município de Mocajuba/Pará)</span>",
+            "moreButton": "Saiba mais",
+            "imgTitle": "/assets/Imagenslocal/boto.png",
+            "imgSecundaria": "/assets/Imagenslocal2/boto2.jpeg",
+            "imgTerciaria": "/assets/Imagenslocal2/boto3.jpeg",
+            "descricao": "No Baixo Tocantins encontramos a ocorrência do magnífico Boto e sua graciosidade única. Desfrute de um passeio de Jangada pelo baixo Tocantins e conheça uma casa cabocla com fonte de água doce, hospitalidade e cultura Ribeirinha.",
+            "precos": {
+                "title": "Preços e Durações:",
+                "list": [
+                    { "valor": 630, "duracao": "13 Horas de passeio" }
+                ]
+            },
+            "more": {
+                "title": "Faremos seu receptivo turístico no seu hotel. Seguiremos por via rodoviária por 240 km até o ribeirinho município de <b>Mocajuba</b> às margens do Rio Tocantins, afluente do Rio Amazonas. Em Mocajuba, visitaremos o Mirante do Boto onde teremos uma experiência ÚNICA diante de espécie singular de nossa fauna.<br><br>Em seguida, faremos um passeio de jangada pelo Baixo Tocantins. Por mais de 2 horas exploraremos praias e igarapés no habitat natural do Boto. Visitaremos uma casa ribeirinha com seu “olho d’água” em forma de piscina, onde poderemos dispor de peixe, camarão e açaí típicos da região.",
+                "details": {
+                    "title": "Detalhes",
+                    "list": [
+                        { "name": "Duração:", "value": "<b>Até 13 horas de passeio</b>" }
+                    ]
+                },
+                "included": {
+                    "title": "O que está incluso",
+                    "list": [
+                        { "name": "", "value": "<b>Receptivo Hoteleiro</b>" },
+                        { "name": "", "value": "<b>Todos os traslados e Serviços de Guia Turístico</b>" },
+                        { "name": "", "value": "<b>Passeio de Jangada pelo baixo Tocantins</b>" }
+                    ]
+                },
+                "notIncluded": {
+                    "title": "O que não está incluso",
+                    "list": [
+                        { "name": "", "value": "<b>Ingressos de nenhuma espécie</b>" },
+                        { "name": "", "value": "<b>Alimentação e Bebidas</b>" }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "ilha-do-algodoal",
+            "titulo": "Ilha de Algodoal",
+            "moreButton": "Saiba mais",
+            "imgTitle": "/assets/Imagenslocal/algodoal.jpg",
+            "imgSecundaria": "/assets/Imagenslocal2/algodoal2.jpeg",
+            "descricao": "A Ilha de Algodoal, uma das maiores ilhas oceânicas do Brasil, guarda em suas praias gigantes, coqueirais e mangues um traço de cultura cabocla e alternativa  sob o ritmo do Carimbó.",
+            "precos": {
+                "title": "Preços e Durações:",
+                "list": [
+                    { "valor": 630, "duracao": "12 Horas de passeio" }
+                ]
+            },
+            "more": {
+                "title": "A BBOT fará seu receptivo turístico no seu hotel em horário combinado. <br>Seguiremos então para a Ilha de Algodoal por via rodoviária por 190 km do seu hotel cruzando a grande região nordeste do Pará. Na cidade de MARUDÁ faremos a travessia para a Ilha de Algodoal – uma das mais belas ilhas marítimas brasileiras próxima ao litoral.<br><br>Ao aportarmos na ilha, seguiremos para a <b>Praia da Princesa</b> conduzidos por charrete à beira-mar num caminho mágico passando pela Vila de Algodoal, igarapés e dunas à beira-mar. Na Praia da Princesa, desfrutaremos do nosso dia em um espaço de praia infinita e restaurantes únicos.",
+                "details": {
+                    "title": "Detalhes",
+                    "list": [
+                        { "name": "Duração: ", "value": "<b>Até 12 horas de passeio</b>" }
+                    ]
+                },
+                "included": {
+                    "title": "O que está incluso",
+                    "list": [
+                        { "name": "", "value": "<b>Receptivo Hoteleiro</b>" },
+                        { "name": "", "value": "<b>Todos os traslados e Serviços de Guia Turístico</b>" }
+                    ]
+                },
+                "notIncluded": {
+                    "title": "O que não está incluso",
+                    "list": [
+                        { "name": "", "value": "<b>Ingressos de nenhuma espécie</b>" },
+                        { "name": "", "value": "<b>Alimentação e Bebidas</b>" }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "praia-de-ajuruteua",
+            "titulo": "  Bragança & Praia de Ajuruteua",
+            "moreButton": "Saiba mais",
+            "imgTitle": "/assets/Imagenslocal/ajuruteua.jpg",
+            "imgSecundaria": "/assets/Imagenslocal2/ajuruteua2.jpg",
+            "descricao": "O histórico município de Bragança guarda em seu litoral uma praia de Ajuruteua com suas areias alvas, sua harmonia entre  badalação  e sossego  isso tudo com uma infra-estrutura aconchegante.",
+            "precos": {
+                "title": "Preços e Durações:",
+                "list": [
+                    { "valor": 560, "duracao": "12 Horas de passeio" }
+                ]
+            },
+            "more": {
+                "title": "A BBOT fará seu receptivo turístico no seu hotel em horário combinado. <br>Seguiremos por via rodoviária para a magnífica <b>Praia de Ajuruteua</b> no Município de Bragança – praia gigante com o seu horizonte sem fim, um convite à caminhada - localizada a 250 km no litoral do histórico Município de Bragança, um dos berços da cultura e culinária belenense.<br><br>Ajuruteua possui restaurantes espetaculares à beira-mar, além de uma super orla marítima inaugurada em 2023. Um ponto turístico pouco conhecido que a Bela Belém oferece para a sua DESCOBERTA.",
+                "details": {
+                    "title": "Detalhes",
+                    "list": [
+                        { "name": "Duração: ", "value": "<b>Até 12 horas de passeio</b>" }
+                    ]
+                },
+                "included": {
+                    "title": "O que está incluso",
+                    "list": [
+                        { "name": "", "value": "<b>Receptivo Hoteleiro</b>" },
+                        { "name": "", "value": "<b>Todos os traslados e Serviços de Guia Turístico</b>" }
+                    ]
+                },
+                "notIncluded": {
+                    "title": "O que não está incluso",
+                    "list": [
+                        { "name": "", "value": "<b>Ingressos de nenhuma espécie</b>" },
+                        { "name": "", "value": "<b>Alimentação e Bebidas</b>" }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "transfer",
+            "titulo": "Serviço de Transfer",
+            "moreButton": "Saiba mais",
+            "imgTitle": "assets/Imagenslocal/transfer.jpeg",
+            "imgSecundaria": "/assets/Imagenslocal2/transfer2.jpeg",
+            "descricao": "A BELA BELEM OT conta com ampla estrutura de Transfer com veículos equipados e profissionais experientes.",
+            "precos": {
+                "title": "",
+                "list": []
+            },
+            "more": {
+                "title": "A BELA BELEM OT conta com ampla estrutura de Transfer com veículos equipados e profissionais experientes na atividade de logística de transporte.<br><br><b>Estamos aptos a conduzi-lo nos seguintes traslados:</b><br><br>• AEROPORTO / HOTEL / AEROPORTO<br>• HOTEL-AEROPORTO / DESTINO TURÍSTICO / HOTEL-AEROPORTO",
+                "details": {
+                    "title": "Detalhes",
+                    "list": [
+                        { "name": "Disponibilidade:", "value": "<b>Sob consulta e agendamento prévio.</b>" }
+                    ]
+                },
+                "included": {
+                    "title": "O que está incluso",
+                    "list": [
+                        { "name": "", "value": "<b>Veículos adequados ao tamanho do seu grupo</b>" },
+                        { "name": "", "value": "<b>Profissionais credenciados nos órgãos reguladores</b>" },
+                        { "name": "", "value": "<b>Guia em língua estrangeira (na medida de sua solicitação)</b>" }
+                    ]
+                },
+                "notIncluded": {
+                    "title": "",
+                    "list": []
+                }
+            }
+        }
+    ],
+    "duvidas": {
+        "titulo": "Dúvidas Frequentes",
+        "subtitulo": "Confira informações essenciais antes de reservar",
+        "pagamento": {
+            "titulo": "Formas de pagamento",
+            "antecipado": "Pagamento Antecipado (20%)",
+            "local": "Restante/Saldo (80% no Receptivo)",
+            "listaAntecipado": {
+                "1": "PIX – COM ENVIO DA CHAVE PIX DA BBOT.",
+                "2": "CARTÃO DE CRÉDITO À VISTA: Via Link de Pagamento (acréscimo de 4,2%)."
+            },
+"listaLocal": {
+                "1": "PIX – COM ENVIO DA CHAVE PIX DA BBOT.",
+                "2": "DINHEIRO EM MOEDAS REAL, DÓLAR ou EURO.",
+                "3": "CARTÃO DE CRÉDITO À VISTA:  Via  Link de Pagamento ou maquininha (acréscimo de 4,2%).",
+                "4": "CARTÃO DE CRÉDITO PARCELADO:  Via  Link de Pagamento ou maquininha (acréscimo 4,2% + JUROS DO PERÍODO).",
+                "5": "PAYPAL: Pagamento via PayPal."
+            }
+        },
+"regulamentacao": {
+            "titulo": "Regulamentação e Condições Gerais",
+            "valores_grupos": {
+                "titulo": "Valores e Grupos",
+                "txt1": "TODOS OS PREÇOS SÃO POR PESSOA/INDIVIDUAIS e feitos para grupos de 02 pessoas. Seu grupo é MAIOR? O preço será MENOR! Nos consulte.",
+                "txt2": "Se você está SOZINHO (A)? Nos consulte, vamos te atender COM PREÇO DIFERENCIADO DO PUBLICADO NESTE SITE:<br>a) de forma exclusiva/privativa <br>ou<br>b) te encaixamos em passeio a sua escolha, a depender da disponibilidade.",
+                "txt3": "Crianças de até 02 anos de idade não pagam. Crianças entre 03 e 10 anos de idade pagam o equivalente a 50% do valor do preço unitário do pacote turístico DESDE QUE acompanhados de pelo menos dois (02) adultos."
+            },
+            "horarios": {
+                "titulo": "Horários",
+                "txt1": "Trabalhamos com HORÁRIOS FLEXÍVEIS. Possuímos compromisso com o tempo TOTAL do passeio contratado. Horários de referência: receptivo NO hotel ou evento e retorno NO hotel ou evento."
+            },
+            "pagamentos": {
+                "titulo": "Pagamentos",
+                "txt1": "Solicitamos o PAGAMENTO ANTECIPADO de 20% do valor do pacote turístico contratado NA CONFIRMAÇÃO DO PASSEIO/PACOTE. O saldo restante de 80% DEVE ser pago ATÉ o receptivo hoteleiro no momento que marca o início do serviços contratrados.",
+                "txt2": "Para o destino Ilha MARAJÓ, haverá necessidade de PAGAMENTO ANTECIPADO definido caso a caso."
+            },
+            "cancelamentos": {
+                "titulo": "Cancelamentos",
+                "txt1": "Se solicitado o cancelamento até 07 dias do início do passeio turístico, os valores pagos antecipadamente NÃO serão objeto de devolução.",
+                "txt2": "Em caso de CANCELAMENTO do passeio por parte da BELA BELÉM OT, a BELA BELÉM OT devolve TODOS os valores recebidos a título de antecipação.",
+                "txt3": "Solicitação de cancelamento por iniciativa do cliente por razão de: atraso aeroportuário ou por motivo de saúde; Ambos comprovados por documentos regulares, terão seus valores integralmente devolvidos, mesmo dentro do prazo de 07 dias do início do pacote contratado."
+            },
+            "guias": {
+                "titulo": "Guias Turísticos",
+                "txt1": "Passeios com Guia em língua estrangeira terão acréscimo de valor definido caso a caso."
+            },
+            "refeicoes": {
+                "titulo": "Refeições",
+                "txt1": "Não estão incluídos ALMOÇO ou qualquer outra refeição ou bebida em nenhum dos pacotes turísticos comercializados pela BELA BELEM OT."
+            },
+            "deslocamento": {
+                "titulo": "Deslocamento",
+                "txt1": "Se você está hospedado: na Avenida Júlio César, acima de 08 km do Ver-o-Peso, ou fora do município de Belém, seu preço por PACOTE turístico será acrescido de R$ 30 por PESSOA, salvo exceções sob consulta."
+            },
+            "comunicacao": {
+                "titulo": "Comunicação e Agendamento",
+                "txt1": "Toda a COMUNICAÇÃO do cliente com a BELA BELEM OT será conduzida e formalizada via canal de WHATSAPP com o envio de PROSPECTO DE CONFIRMAÇÃO / AGENDAMENTO onde constarão todos os DADOS do passeio e forma de pagamento."
+            }
+        }
+    },
+    "login": {
+        "intro": {
+            "parte1": "A Bela Belém Turismo opera  com pessoas de todas as idades, origens e matrizes culturais, valorizando a diversidade e o acolhimento.",
+            "destaque": "Nosso compromisso é proporcionar experiências Turísticas sob medida ao turista visitante,",
+            "parte2": "conectando CULTURA, NATUREZA e VIVÊNCIAS genuínas  da AMAZÔNIA PARAENSE."
+        }
+    },
+    "footer": {
+        "rights": "© 2026 Bela Belém Turismo - Todos os direitos reservados"
+    },
+    "menu": {
+        "instagram": "Nosso Instagram",
+        "whatsapp": "Nosso WhatsApp",
+        "duvidas": "Dúvidas"
+    },
+    "reserva": {
+        "instagram": "Reserve pelo Instagram",
+        "whatsapp": "Reserve pelo WhatsApp",
+        "titulo": "Reserva de Pacote Turístico",
+        "form": {
+            "nome": "👉Qual é o seu nome?",
+            "numero": "👉Qual é o seu número de Celular com DDI?",
+            "hotel": "👉Qual é o seu hotel de hospedagem atual (número do seu quarto), ou local de hospedagem?",
+            "pessoas": "👉Qual é o número de pessoas do seu grupo? Ou sozinho(a)?",
+            "destinos": "👉Qual é o seu Pacote(s) de interesse?",
+            "datas": "👉Qual a data(s) de interesse?",
+            "detalhes": "👉Há cuidados especiais a serem tomados junto ao seu grupo ou pessoa?🎯",
+            "enviar": "Enviar",
+            "cancelar": "Cancelar"
+        }
+    },
+    "labels": {
+        "por_pessoa": "por pessoa"
+    },
+    "secao_pagamento": {
+        "titulo": "Formas de pagamento",
+        "pix": "PIX – COM ENVIO DA CHAVE PIX DA BBOT.",
+        "credito_vista": "CARTÃO DE CRÉDITO À VISTA:",
+        "credito_vista_desc": "Via Link de Pagamento, ou via Maquininha: acréscimo de 4,2%.",
+        "credito_parc": "CARTÃO DE CRÉDITO PARCELADO:",
+        "credito_parc_desc": "Via Link de Pagamento, ou via Maquininha: acréscimo 4,2% + JUROS DO PERÍODO.",
+        "dinheiro": "DINHEIRO EM MOEDAS REAL, DÓLAR ou EURO.",
+        "paypal": "Via PayPal."
+    },
+    "tour_page": {
+        "aviso_regulamento": "Antes de qualquer reserva, consulte nossas formas de pagamento e regulamento:"
+    }
+}
