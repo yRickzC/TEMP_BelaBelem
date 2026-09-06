@@ -18,8 +18,14 @@
             "precos": {
                 "title": "Precios y Duración:",
                 "list": [
-                    { "valor": 350, "duracao": "09 Horas de recorrido" },
-                    { "valor": 270, "duracao": "05 Horas de recorrido" },
+                    {
+                        "valor": 350,
+                        "duracao": "09 Horas de recorrido"
+                    },
+                    {
+                        "valor": 270,
+                        "duracao": "05 Horas de recorrido"
+                    },
                     {
                         "valor": 380,
                         "duracao": "10 Horas de recorrido <br><span class=\"text-[13px] md:text-[15px] font-normal\">(Belém + Icoaraci)</span>"
@@ -35,22 +41,40 @@
                 "details": {
                     "title": "Detalles",
                     "list": [
-                        { "name": "Duración: ", "value": "<b>De 05 a 10 horas de recorrido</b>" },
-                        { "name": "Atención: ", "value": "<b>La lista de destinos anterior es ilustrativa. Su visita depende de las horas contratadas, de la disponibilidad del lugar y del interés y perfil del cliente.</b>" }
+                        {
+                            "name": "Duración: ",
+                            "value": "<b>De 05 a 10 horas de recorrido</b>"
+                        },
+                        {
+                            "name": "Atención: ",
+                            "value": "<b>La lista de destinos anterior es ilustrativa. Su visita depende de las horas contratadas, de la disponibilidad del lugar y del interés y perfil del cliente.</b>"
+                        }
                     ]
                 },
                 "included": {
                     "title": "Lo que está incluido",
                     "list": [
-                        { "name": "", "value": "<b>Recepción en el hotel</b>" },
-                        { "name": "", "value": "<b>Todos los traslados y Servicios de Guía Turístico</b>" }
+                        {
+                            "name": "",
+                            "value": "<b>Recepción en el hotel</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>Todos los traslados y Servicios de Guía Turístico</b>"
+                        }
                     ]
                 },
                 "notIncluded": {
                     "title": "Lo que no está incluido",
                     "list": [
-                        { "name": "", "value": "<b>Boletos de entrada de ningún tipo</b>" },
-                        { "name": "", "value": "<b>Alimentos y Bebidas</b>" }
+                        {
+                            "name": "",
+                            "value": "<b>Boletos de entrada de ningún tipo</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>Alimentos y Bebidas</b>"
+                        }
                     ]
                 }
             }
@@ -65,7 +89,10 @@
             "precos": {
                 "title": "Precios y Duración:",
                 "list": [
-                    { "valor": 350, "duracao": "10 Horas de recorrido" }
+                    {
+                        "valor": 350,
+                        "duracao": "10 Horas de recorrido"
+                    }
                 ]
             },
             "more": {
@@ -73,21 +100,36 @@
                 "details": {
                     "title": "Detalles",
                     "list": [
-                        { "name": "Duración: ", "value": "<b>Hasta 10 horas de recorrido</b>" }
+                        {
+                            "name": "Duración: ",
+                            "value": "<b>Hasta 10 horas de recorrido</b>"
+                        }
                     ]
                 },
                 "included": {
                     "title": "Lo que está incluido",
                     "list": [
-                        { "name": "", "value": "<b>Recepción en el hotel</b>" },
-                        { "name": "", "value": "<b>Todos los traslados y Servicios de Guía Turístico</b>" }
+                        {
+                            "name": "",
+                            "value": "<b>Recepción en el hotel</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>Todos los traslados y Servicios de Guía Turístico</b>"
+                        }
                     ]
                 },
                 "notIncluded": {
                     "title": "Lo que no está incluido",
                     "list": [
-                        { "name": "", "value": "<b>Boletos de entrada de ningún tipo</b>" },
-                        { "name": "", "value": "<b>Alimentos y Bebidas</b>" }
+                        {
+                            "name": "",
+                            "value": "<b>Boletos de entrada de ningún tipo</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>Alimentos y Bebidas</b>"
+                        }
                     ]
                 }
             }
@@ -102,7 +144,10 @@
             "precos": {
                 "title": "Precios y Duración:",
                 "list": [
-                    { "valor": 390, "duracao": "09 Horas de recorrido" }
+                    {
+                        "valor": 390,
+                        "duracao": "09 Horas de recorrido"
+                    }
                 ]
             },
             "more": {
@@ -110,21 +155,36 @@
                 "details": {
                     "title": "Detalles",
                     "list": [
-                        { "name": "Duración: ", "value": "<b>Hasta 09 horas de recorrido</b>" }
+                        {
+                            "name": "Duración: ",
+                            "value": "<b>Hasta 09 horas de recorrido</b>"
+                        }
                     ]
                 },
                 "included": {
                     "title": "Lo que está incluido",
                     "list": [
-                        { "name": "", "value": "<b>Recepción en el hotel</b>" },
-                        { "name": "", "value": "<b>Todos los traslados y Servicios de Guía Turístico</b>" }
+                        {
+                            "name": "",
+                            "value": "<b>Recepción en el hotel</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>Todos los traslados y Servicios de Guía Turístico</b>"
+                        }
                     ]
                 },
                 "notIncluded": {
                     "title": "Lo que no está incluido",
                     "list": [
-                        { "name": "", "value": "<b>Boletos de entrada de ningún tipo</b>" },
-                        { "name": "", "value": "<b>Alimentos y Bebidas</b>" }
+                        {
+                            "name": "",
+                            "value": "<b>Boletos de entrada de ningún tipo</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>Alimentos y Bebidas</b>"
+                        }
                     ]
                 }
             }
@@ -139,7 +199,10 @@
             "precos": {
                 "title": "Precios y Duración:",
                 "list": [
-                    { "valor": 310, "duracao": "05 Horas de recorrido" }
+                    {
+                        "valor": 310,
+                        "duracao": "05 Horas de recorrido"
+                    }
                 ]
             },
             "more": {
@@ -147,22 +210,40 @@
                 "details": {
                     "title": "Detalles",
                     "list": [
-                        { "name": "Duración: ", "value": "<b>Hasta 05 horas de recorrido</b>" },
-                        { "name": "Atención:", "value": " <b>Disponible todos los días</b>" }
+                        {
+                            "name": "Duración: ",
+                            "value": "<b>Hasta 05 horas de recorrido</b>"
+                        },
+                        {
+                            "name": "Atención:",
+                            "value": " <b>Disponible todos los días</b>"
+                        }
                     ]
                 },
                 "included": {
                     "title": "Lo que está incluido",
                     "list": [
-                        { "name": "", "value": "<b>Recepción en el hotel</b>" },
-                        { "name": "", "value": "<b>Todos los traslados y Servicios de Guía Turístico</b>" }
+                        {
+                            "name": "",
+                            "value": "<b>Recepción en el hotel</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>Todos los traslados y Servicios de Guía Turístico</b>"
+                        }
                     ]
                 },
                 "notIncluded": {
                     "title": "Lo que no está incluido",
                     "list": [
-                        { "name": "", "value": "<b>Boletos de entrada de ningún tipo</b>" },
-                        { "name": "", "value": "<b>Alimentos y Bebidas</b>" }
+                        {
+                            "name": "",
+                            "value": "<b>Boletos de entrada de ningún tipo</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>Alimentos y Bebidas</b>"
+                        }
                     ]
                 }
             }
@@ -177,7 +258,10 @@
             "precos": {
                 "title": "Precios y Duración:",
                 "list": [
-                    { "valor": 430, "duracao": "09 Horas de recorrido" }
+                    {
+                        "valor": 430,
+                        "duracao": "09 Horas de recorrido"
+                    }
                 ]
             },
             "more": {
@@ -185,22 +269,40 @@
                 "details": {
                     "title": "Detalles",
                     "list": [
-                        { "name": "Duración: ", "value": "<b>Hasta 09 horas de recorrido</b>" },
-                        { "name": "ATENCIÓN: ", "value": "<b>Disponible todos los días</b>" }
+                        {
+                            "name": "Duración: ",
+                            "value": "<b>Hasta 09 horas de recorrido</b>"
+                        },
+                        {
+                            "name": "ATENCIÓN: ",
+                            "value": "<b>Disponible todos los días</b>"
+                        }
                     ]
                 },
                 "included": {
                     "title": "Lo que está incluido",
                     "list": [
-                        { "name": "", "value": "<b>Recepción en el hotel</b>" },
-                        { "name": "", "value": "<b>Todos los traslados y Servicios de Guía Turístico</b>" }
+                        {
+                            "name": "",
+                            "value": "<b>Recepción en el hotel</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>Todos los traslados y Servicios de Guía Turístico</b>"
+                        }
                     ]
                 },
                 "notIncluded": {
                     "title": "Lo que no está incluido",
                     "list": [
-                        { "name": "", "value": "<b>Boletos de entrada de ningún tipo</b>" },
-                        { "name": "", "value": "<b>Alimentos y Bebidas</b>" }
+                        {
+                            "name": "",
+                            "value": "<b>Boletos de entrada de ningún tipo</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>Alimentos y Bebidas</b>"
+                        }
                     ]
                 }
             }
@@ -231,23 +333,44 @@
                 "details": {
                     "title": "Detalles",
                     "list": [
-                        { "name": "Duración - <b>Amanecer:</b> ", "value": "<b>Hasta 05 horas de recorrido</b>" },
-                        { "name": "Duración - <b>Atardecer:</b> ", "value": "<b>Hasta 03 horas de recorrido</b>" },
-                        { "name": "", "value": "<b>Disponible todos los días</b>" }
+                        {
+                            "name": "Duración - <b>Amanecer:</b> ",
+                            "value": "<b>Hasta 05 horas de recorrido</b>"
+                        },
+                        {
+                            "name": "Duración - <b>Atardecer:</b> ",
+                            "value": "<b>Hasta 03 horas de recorrido</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>Disponible todos los días</b>"
+                        }
                     ]
                 },
                 "included": {
                     "title": "Lo que está incluido",
                     "list": [
-                        { "name": "", "value": "<b>Recepción en el hotel</b>" },
-                        { "name": "", "value": "<b>Desayuno para el recorrido del Amanecer</b>" },
-                        { "name": "", "value": "<b>Todos los traslados y Servicios de Guía Turístico</b>" }
+                        {
+                            "name": "",
+                            "value": "<b>Recepción en el hotel</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>Desayuno para el recorrido del Amanecer</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>Todos los traslados y Servicios de Guía Turístico</b>"
+                        }
                     ]
                 },
                 "notIncluded": {
                     "title": "Lo que no está incluido",
                     "list": [
-                        { "name": "", "value": "<b>Boletos de entrada de ningún tipo</b>" }
+                        {
+                            "name": "",
+                            "value": "<b>Boletos de entrada de ningún tipo</b>"
+                        }
                     ]
                 }
             }
@@ -263,7 +386,10 @@
             "precos": {
                 "title": "Precios y Duración:",
                 "list": [
-                    { "valor": 350, "duracao": "11 Horas de recorrido" }
+                    {
+                        "valor": 350,
+                        "duracao": "11 Horas de recorrido"
+                    }
                 ]
             },
             "more": {
@@ -271,21 +397,36 @@
                 "details": {
                     "title": "Detalles",
                     "list": [
-                        { "name": "Duración: ", "value": "<b>Hasta 11 horas de recorrido</b>" }
+                        {
+                            "name": "Duración: ",
+                            "value": "<b>Hasta 11 horas de recorrido</b>"
+                        }
                     ]
                 },
                 "included": {
                     "title": "Lo que está incluido",
                     "list": [
-                        { "name": "", "value": "<b>Recepción en el hotel</b>" },
-                        { "name": "", "value": "<b>Todos los traslados y Servicios de Guía Turístico</b>" }
+                        {
+                            "name": "",
+                            "value": "<b>Recepción en el hotel</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>Todos los traslados y Servicios de Guía Turístico</b>"
+                        }
                     ]
                 },
                 "notIncluded": {
                     "title": "Lo que no está incluido",
                     "list": [
-                        { "name": "", "value": "<b>Boletos de entrada de ningún tipo</b>" },
-                        { "name": "", "value": "<b>Alimentos y Bebidas</b>" }
+                        {
+                            "name": "",
+                            "value": "<b>Boletos de entrada de ningún tipo</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>Alimentos y Bebidas</b>"
+                        }
                     ]
                 }
             }
@@ -301,8 +442,14 @@
             "precos": {
                 "title": "Precios y Duración:",
                 "list": [
-                    { "valor": 790, "duracao": "36 Horas de recorrido" },
-                    { "valor": 530, "duracao": "11 Horas de recorrido" }
+                    {
+                        "valor": 790,
+                        "duracao": "36 Horas de recorrido"
+                    },
+                    {
+                        "valor": 530,
+                        "duracao": "11 Horas de recorrido"
+                    }
                 ]
             },
             "more": {
@@ -312,26 +459,56 @@
                 "details": {
                     "title": "Detalles",
                     "list": [
-                        { "name": "Duración: ", "value": "<b>Hasta 11 horas o 36 horas de recorrido</b>" },
-                        { "name": "Hotel de Alojamiento: ", "value": "<b>Según la DISPONIBILIDAD, BELA BELÉM le informará de las características e imágenes de los HOTELES para su ACEPTACIÓN.</b>" },
-                        { "name": "Paseos en Temporada Alta: ", "value": "<b>Precios sujetos a cambios con respecto a los publicados en este folleto.</b>" },
-                        { "name": "Nota: ", "value": "<b>El valor del paseo en búfalo o espacios de visita de pago no está incluido dada la eventual no disponibilidad el día de su recorrido. Le informamos que tienen BAJO valor/precio.</b>" }
+                        {
+                            "name": "Duración: ",
+                            "value": "<b>Hasta 11 horas o 36 horas de recorrido</b>"
+                        },
+                        {
+                            "name": "Hotel de Alojamiento: ",
+                            "value": "<b>Según la DISPONIBILIDAD, BELA BELÉM le informará de las características e imágenes de los HOTELES para su ACEPTACIÓN.</b>"
+                        },
+                        {
+                            "name": "Paseos en Temporada Alta: ",
+                            "value": "<b>Precios sujetos a cambios con respecto a los publicados en este folleto.</b>"
+                        },
+                        {
+                            "name": "Nota: ",
+                            "value": "<b>El valor del paseo en búfalo o espacios de visita de pago no está incluido dada la eventual no disponibilidad el día de su recorrido. Le informamos que tienen BAJO valor/precio.</b>"
+                        }
                     ]
                 },
                 "included": {
                     "title": "Lo que está incluido",
                     "list": [
-                        { "name": "", "value": "<b>Viaje en LANCHA o CATAMARÁN rápidos - registrados en la Marina Brasileña.</b>" },
-                        { "name": "", "value": "<b>TODOS los traslados y Servicios de Guía Turístico.</b>" },
-                        { "name": "", "value": "<b>Recepción en el hotel.</b>" },
-                        { "name": "", "value": "<b>Alojamiento con desayuno para los paseos de 36 horas.</b>" }
+                        {
+                            "name": "",
+                            "value": "<b>Viaje en LANCHA o CATAMARÁN rápidos - registrados en la Marina Brasileña.</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>TODOS los traslados y Servicios de Guía Turístico.</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>Recepción en el hotel.</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>Alojamiento con desayuno para los paseos de 36 horas.</b>"
+                        }
                     ]
                 },
                 "notIncluded": {
                     "title": "Lo que no está incluido",
                     "list": [
-                        { "name": "", "value": "<b>Boletos de entrada de ningún tipo</b>" },
-                        { "name": "", "value": "<b>Itinerarios vendidos por proveedores locales</b>" }
+                        {
+                            "name": "",
+                            "value": "<b>Boletos de entrada de ningún tipo</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>Itinerarios vendidos por proveedores locales</b>"
+                        }
                     ]
                 }
             }
@@ -346,7 +523,10 @@
             "precos": {
                 "title": "Precios y Duración:",
                 "list": [
-                    { "valor": 510, "duracao": "12 Horas de recorrido" }
+                    {
+                        "valor": 510,
+                        "duracao": "12 Horas de recorrido"
+                    }
                 ]
             },
             "more": {
@@ -354,21 +534,36 @@
                 "details": {
                     "title": "Detalles",
                     "list": [
-                        { "name": "Duración:", "value": "<b>Hasta 12 horas de recorrido</b>" }
+                        {
+                            "name": "Duración:",
+                            "value": "<b>Hasta 12 horas de recorrido</b>"
+                        }
                     ]
                 },
                 "included": {
                     "title": "Lo que está incluido",
                     "list": [
-                        { "name": "", "value": "<b>Recepción en el hotel</b>" },
-                        { "name": "", "value": "<b>Todos los traslados y Servicios de Guía Turístico</b>" }
+                        {
+                            "name": "",
+                            "value": "<b>Recepción en el hotel</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>Todos los traslados y Servicios de Guía Turístico</b>"
+                        }
                     ]
                 },
                 "notIncluded": {
                     "title": "Lo que no está incluido",
                     "list": [
-                        { "name": "", "value": "<b>Boletos de entrada de ningún tipo</b>" },
-                        { "name": "", "value": "<b>Alimentos y Bebidas</b>" }
+                        {
+                            "name": "",
+                            "value": "<b>Boletos de entrada de ningún tipo</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>Alimentos y Bebidas</b>"
+                        }
                     ]
                 }
             }
@@ -384,7 +579,10 @@
             "precos": {
                 "title": "Precios y Duración:",
                 "list": [
-                    { "valor": 630, "duracao": "13 Horas de recorrido" }
+                    {
+                        "valor": 630,
+                        "duracao": "13 Horas de recorrido"
+                    }
                 ]
             },
             "more": {
@@ -392,22 +590,40 @@
                 "details": {
                     "title": "Detalles",
                     "list": [
-                        { "name": "Duración:", "value": "<b>Hasta 13 horas de recorrido</b>" }
+                        {
+                            "name": "Duración:",
+                            "value": "<b>Hasta 13 horas de recorrido</b>"
+                        }
                     ]
                 },
                 "included": {
                     "title": "Lo que está incluido",
                     "list": [
-                        { "name": "", "value": "<b>Recepción en el hotel</b>" },
-                        { "name": "", "value": "<b>Todos los traslados y Servicios de Guía Turístico</b>" },
-                        { "name": "", "value": "<b>Paseo en balsa por el bajo Tocantins</b>" }
+                        {
+                            "name": "",
+                            "value": "<b>Recepción en el hotel</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>Todos los traslados y Servicios de Guía Turístico</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>Paseo en balsa por el bajo Tocantins</b>"
+                        }
                     ]
                 },
                 "notIncluded": {
                     "title": "Lo que no está incluido",
                     "list": [
-                        { "name": "", "value": "<b>Boletos de entrada de ningún tipo</b>" },
-                        { "name": "", "value": "<b>Alimentos y Bebidas</b>" }
+                        {
+                            "name": "",
+                            "value": "<b>Boletos de entrada de ningún tipo</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>Alimentos y Bebidas</b>"
+                        }
                     ]
                 }
             }
@@ -422,7 +638,10 @@
             "precos": {
                 "title": "Precios y Duración:",
                 "list": [
-                    { "valor": 630, "duracao": "12 Horas de recorrido" }
+                    {
+                        "valor": 630,
+                        "duracao": "12 Horas de recorrido"
+                    }
                 ]
             },
             "more": {
@@ -430,21 +649,36 @@
                 "details": {
                     "title": "Detalles",
                     "list": [
-                        { "name": "Duración: ", "value": "<b>Hasta 12 horas de recorrido</b>" }
+                        {
+                            "name": "Duración: ",
+                            "value": "<b>Hasta 12 horas de recorrido</b>"
+                        }
                     ]
                 },
                 "included": {
                     "title": "Lo que está incluido",
                     "list": [
-                        { "name": "", "value": "<b>Recepción en el hotel</b>" },
-                        { "name": "", "value": "<b>Todos los traslados y Servicios de Guía Turístico</b>" }
+                        {
+                            "name": "",
+                            "value": "<b>Recepción en el hotel</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>Todos los traslados y Servicios de Guía Turístico</b>"
+                        }
                     ]
                 },
                 "notIncluded": {
                     "title": "Lo que no está incluido",
                     "list": [
-                        { "name": "", "value": "<b>Boletos de entrada de ningún tipo</b>" },
-                        { "name": "", "value": "<b>Alimentos y Bebidas</b>" }
+                        {
+                            "name": "",
+                            "value": "<b>Boletos de entrada de ningún tipo</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>Alimentos y Bebidas</b>"
+                        }
                     ]
                 }
             }
@@ -459,7 +693,10 @@
             "precos": {
                 "title": "Precios y Duración:",
                 "list": [
-                    { "valor": 560, "duracao": "12 Horas de recorrido" }
+                    {
+                        "valor": 560,
+                        "duracao": "12 Horas de recorrido"
+                    }
                 ]
             },
             "more": {
@@ -467,21 +704,36 @@
                 "details": {
                     "title": "Detalles",
                     "list": [
-                        { "name": "Duración: ", "value": "<b>Hasta 12 horas de recorrido</b>" }
+                        {
+                            "name": "Duración: ",
+                            "value": "<b>Hasta 12 horas de recorrido</b>"
+                        }
                     ]
                 },
                 "included": {
                     "title": "Lo que está incluido",
                     "list": [
-                        { "name": "", "value": "<b>Recepción en el hotel</b>" },
-                        { "name": "", "value": "<b>Todos los traslados y Servicios de Guía Turístico</b>" }
+                        {
+                            "name": "",
+                            "value": "<b>Recepción en el hotel</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>Todos los traslados y Servicios de Guía Turístico</b>"
+                        }
                     ]
                 },
                 "notIncluded": {
                     "title": "Lo que no está incluido",
                     "list": [
-                        { "name": "", "value": "<b>Boletos de entrada de ningún tipo</b>" },
-                        { "name": "", "value": "<b>Alimentos y Bebidas</b>" }
+                        {
+                            "name": "",
+                            "value": "<b>Boletos de entrada de ningún tipo</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>Alimentos y Bebidas</b>"
+                        }
                     ]
                 }
             }
@@ -502,15 +754,27 @@
                 "details": {
                     "title": "Detalles",
                     "list": [
-                        { "name": "Disponibilidad:", "value": "<b>Bajo consulta y programación previa.</b>" }
+                        {
+                            "name": "Disponibilidad:",
+                            "value": "<b>Bajo consulta y programación previa.</b>"
+                        }
                     ]
                 },
                 "included": {
                     "title": "Lo que está incluido",
                     "list": [
-                        { "name": "", "value": "<b>Vehículos adecuados al tamaño de su grupo</b>" },
-                        { "name": "", "value": "<b>Profesionales acreditados por organismos reguladores</b>" },
-                        { "name": "", "value": "<b>Guía en idioma extranjero (según su solicitud)</b>" }
+                        {
+                            "name": "",
+                            "value": "<b>Vehículos adecuados al tamaño de su grupo</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>Profesionales acreditados por organismos reguladores</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>Guía en idioma extranjero (según su solicitud)</b>"
+                        }
                     ]
                 },
                 "notIncluded": {
@@ -599,15 +863,30 @@
         "instagram": "Reservar por Instagram",
         "whatsapp": "Reservar por WhatsApp",
         "titulo": "Reserva de Paquete Turístico",
+        "pacote": {
+            "nenhum": "Ningún paquete seleccionado",
+            "titulo": "Seleccione el paquete deseado"
+        },
         "form": {
             "nome": "👉¿Cuál es su nombre?",
             "numero": "👉¿Cuál es su número de teléfono celular con código de país?",
             "hotel": "👉¿Cuál es su hotel de alojamiento actual (número de habitación) o lugar de estancia?",
             "pessoas": "👉¿Cuál es el número de personas en su grupo? ¿O viaja solo(a)?",
-            "destinos": "👉¿Cuál es su Paquete(s) de interés?",
-            "datas": "👉¿Cuál es la fecha(s) de interés?",
+            "destinos": "👉¿Cuál es su Paquete de interés?",
+            "datas": "👉¿Cuál es la fecha de interés?",
             "detalhes": "👉¿Existen cuidados especiales a tener en cuenta para su grupo o persona?🎯",
+            "indicacao": "👉¿Quién nos indicó en su hotel o evento?",
+            "sem_indicacao": "No hubo recomendación",
+            "houve_indicacao": "Hubo una recomendación",
+            "nome_indicacao": "Nombre de quien le recomendó",
             "enviar": "Enviar",
+            "cancelar": "Cancelar"
+        },
+        "dataHora": {
+            "titulo": "Elige la fecha y la hora",
+            "data": "Fecha",
+            "horario": "Hora de inicio deseada (por confirmar)",
+            "confirmar": "Confirmar",
             "cancelar": "Cancelar"
         }
     },

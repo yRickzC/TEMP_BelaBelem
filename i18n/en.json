@@ -18,8 +18,14 @@
             "precos": {
                 "title": "Prices and Durations:",
                 "list": [
-                    { "valor": 350, "duracao": "09 Hours tour" },
-                    { "valor": 270, "duracao": "05 Hours tour" },
+                    {
+                        "valor": 350,
+                        "duracao": "09 Hours tour"
+                    },
+                    {
+                        "valor": 270,
+                        "duracao": "05 Hours tour"
+                    },
                     {
                         "valor": 380,
                         "duracao": "10 Hours tour <br><span class=\"text-[13px] md:text-[15px] font-normal\">(Belém + Icoaraci)</span>"
@@ -35,22 +41,40 @@
                 "details": {
                     "title": "Details",
                     "list": [
-                        { "name": "Duration: ", "value": "<b>From 05 to 10 hours tour</b>" },
-                        { "name": "Attention: ", "value": "<b>The list of destinations above is illustrative. Visitation depends on the contracted time, location availability, and the client's interests and profile.</b>" }
+                        {
+                            "name": "Duration: ",
+                            "value": "<b>From 05 to 10 hours tour</b>"
+                        },
+                        {
+                            "name": "Attention: ",
+                            "value": "<b>The list of destinations above is illustrative. Visitation depends on the contracted time, location availability, and the client's interests and profile.</b>"
+                        }
                     ]
                 },
                 "included": {
                     "title": "What is included",
                     "list": [
-                        { "name": "", "value": "<b>Hotel Pick-up</b>" },
-                        { "name": "", "value": "<b>All transfers and Tour Guide Services</b>" }
+                        {
+                            "name": "",
+                            "value": "<b>Hotel Pick-up</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>All transfers and Tour Guide Services</b>"
+                        }
                     ]
                 },
                 "notIncluded": {
                     "title": "What is not included",
                     "list": [
-                        { "name": "", "value": "<b>Tickets of any kind</b>" },
-                        { "name": "", "value": "<b>Food and Beverages</b>" }
+                        {
+                            "name": "",
+                            "value": "<b>Tickets of any kind</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>Food and Beverages</b>"
+                        }
                     ]
                 }
             }
@@ -65,7 +89,10 @@
             "precos": {
                 "title": "Prices and Durations:",
                 "list": [
-                    { "valor": 350, "duracao": "10 Hours tour" }
+                    {
+                        "valor": 350,
+                        "duracao": "10 Hours tour"
+                    }
                 ]
             },
             "more": {
@@ -73,21 +100,36 @@
                 "details": {
                     "title": "Details",
                     "list": [
-                        { "name": "Duration: ", "value": "<b>Up to 10 hours tour</b>" }
+                        {
+                            "name": "Duration: ",
+                            "value": "<b>Up to 10 hours tour</b>"
+                        }
                     ]
                 },
                 "included": {
                     "title": "What is included",
                     "list": [
-                        { "name": "", "value": "<b>Hotel Pick-up</b>" },
-                        { "name": "", "value": "<b>All transfers and Tour Guide Services</b>" }
+                        {
+                            "name": "",
+                            "value": "<b>Hotel Pick-up</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>All transfers and Tour Guide Services</b>"
+                        }
                     ]
                 },
                 "notIncluded": {
                     "title": "What is not included",
                     "list": [
-                        { "name": "", "value": "<b>Tickets of any kind</b>" },
-                        { "name": "", "value": "<b>Food and Beverages</b>" }
+                        {
+                            "name": "",
+                            "value": "<b>Tickets of any kind</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>Food and Beverages</b>"
+                        }
                     ]
                 }
             }
@@ -102,7 +144,10 @@
             "precos": {
                 "title": "Prices and Durations:",
                 "list": [
-                    { "valor": 390, "duracao": "09 Hours tour" }
+                    {
+                        "valor": 390,
+                        "duracao": "09 Hours tour"
+                    }
                 ]
             },
             "more": {
@@ -110,21 +155,36 @@
                 "details": {
                     "title": "Details",
                     "list": [
-                        { "name": "Duration: ", "value": "<b>Up to 09 hours tour</b>" }
+                        {
+                            "name": "Duration: ",
+                            "value": "<b>Up to 09 hours tour</b>"
+                        }
                     ]
                 },
                 "included": {
                     "title": "What is included",
                     "list": [
-                        { "name": "", "value": "<b>Hotel Pick-up</b>" },
-                        { "name": "", "value": "<b>All transfers and Tour Guide Services</b>" }
+                        {
+                            "name": "",
+                            "value": "<b>Hotel Pick-up</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>All transfers and Tour Guide Services</b>"
+                        }
                     ]
                 },
                 "notIncluded": {
                     "title": "What is not included",
                     "list": [
-                        { "name": "", "value": "<b>Tickets of any kind</b>" },
-                        { "name": "", "value": "<b>Food and Beverages</b>" }
+                        {
+                            "name": "",
+                            "value": "<b>Tickets of any kind</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>Food and Beverages</b>"
+                        }
                     ]
                 }
             }
@@ -139,7 +199,10 @@
             "precos": {
                 "title": "Prices and Durations:",
                 "list": [
-                    { "valor": 310, "duracao": "05 Hours tour" }
+                    {
+                        "valor": 310,
+                        "duracao": "05 Hours tour"
+                    }
                 ]
             },
             "more": {
@@ -147,22 +210,40 @@
                 "details": {
                     "title": "Details",
                     "list": [
-                        { "name": "Duration: ", "value": "<b>Up to 05 hours tour</b>" },
-                        { "name": "Attention:", "value": " <b>Available every day</b>" }
+                        {
+                            "name": "Duration: ",
+                            "value": "<b>Up to 05 hours tour</b>"
+                        },
+                        {
+                            "name": "Attention:",
+                            "value": " <b>Available every day</b>"
+                        }
                     ]
                 },
                 "included": {
                     "title": "What is included",
                     "list": [
-                        { "name": "", "value": "<b>Hotel Pick-up</b>" },
-                        { "name": "", "value": "<b>All transfers and Tour Guide Services</b>" }
+                        {
+                            "name": "",
+                            "value": "<b>Hotel Pick-up</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>All transfers and Tour Guide Services</b>"
+                        }
                     ]
                 },
                 "notIncluded": {
                     "title": "What is not included",
                     "list": [
-                        { "name": "", "value": "<b>Tickets of any kind</b>" },
-                        { "name": "", "value": "<b>Food and Beverages</b>" }
+                        {
+                            "name": "",
+                            "value": "<b>Tickets of any kind</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>Food and Beverages</b>"
+                        }
                     ]
                 }
             }
@@ -177,7 +258,10 @@
             "precos": {
                 "title": "Prices and Durations:",
                 "list": [
-                    { "valor": 430, "duracao": "09 Hours tour" }
+                    {
+                        "valor": 430,
+                        "duracao": "09 Hours tour"
+                    }
                 ]
             },
             "more": {
@@ -185,22 +269,40 @@
                 "details": {
                     "title": "Details",
                     "list": [
-                        { "name": "Duration: ", "value": "<b>Up to 09 hours tour</b>" },
-                        { "name": "ATTENTION: ", "value": "<b>Available every day</b>" }
+                        {
+                            "name": "Duration: ",
+                            "value": "<b>Up to 09 hours tour</b>"
+                        },
+                        {
+                            "name": "ATTENTION: ",
+                            "value": "<b>Available every day</b>"
+                        }
                     ]
                 },
                 "included": {
                     "title": "What is included",
                     "list": [
-                        { "name": "", "value": "<b>Hotel Pick-up</b>" },
-                        { "name": "", "value": "<b>All transfers and Tour Guide Services</b>" }
+                        {
+                            "name": "",
+                            "value": "<b>Hotel Pick-up</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>All transfers and Tour Guide Services</b>"
+                        }
                     ]
                 },
                 "notIncluded": {
                     "title": "What is not included",
                     "list": [
-                        { "name": "", "value": "<b>Tickets of any kind</b>" },
-                        { "name": "", "value": "<b>Food and Beverages</b>" }
+                        {
+                            "name": "",
+                            "value": "<b>Tickets of any kind</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>Food and Beverages</b>"
+                        }
                     ]
                 }
             }
@@ -231,23 +333,44 @@
                 "details": {
                     "title": "Details",
                     "list": [
-                        { "name": "Duration - <b>Sunrise:</b> ", "value": "<b>Up to 05 hours tour</b>" },
-                        { "name": "Duration - <b>Sunset:</b> ", "value": "<b>Up to 03 hours tour</b>" },
-                        { "name": "", "value": "<b>Available every day</b>" }
+                        {
+                            "name": "Duration - <b>Sunrise:</b> ",
+                            "value": "<b>Up to 05 hours tour</b>"
+                        },
+                        {
+                            "name": "Duration - <b>Sunset:</b> ",
+                            "value": "<b>Up to 03 hours tour</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>Available every day</b>"
+                        }
                     ]
                 },
                 "included": {
                     "title": "What is included",
                     "list": [
-                        { "name": "", "value": "<b>Hotel Pick-up</b>" },
-                        { "name": "", "value": "<b>Breakfast for the Sunrise tour</b>" },
-                        { "name": "", "value": "<b>All Transfers and Tour Guide Services</b>" }
+                        {
+                            "name": "",
+                            "value": "<b>Hotel Pick-up</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>Breakfast for the Sunrise tour</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>All Transfers and Tour Guide Services</b>"
+                        }
                     ]
                 },
                 "notIncluded": {
                     "title": "What is not included",
                     "list": [
-                        { "name": "", "value": "<b>Tickets of any kind</b>" }
+                        {
+                            "name": "",
+                            "value": "<b>Tickets of any kind</b>"
+                        }
                     ]
                 }
             }
@@ -263,7 +386,10 @@
             "precos": {
                 "title": "Prices and Durations:",
                 "list": [
-                    { "valor": 350, "duracao": "11 Hours tour" }
+                    {
+                        "valor": 350,
+                        "duracao": "11 Hours tour"
+                    }
                 ]
             },
             "more": {
@@ -271,21 +397,36 @@
                 "details": {
                     "title": "Details",
                     "list": [
-                        { "name": "Duration: ", "value": "<b>Up to 11 hours tour</b>" }
+                        {
+                            "name": "Duration: ",
+                            "value": "<b>Up to 11 hours tour</b>"
+                        }
                     ]
                 },
                 "included": {
                     "title": "What is included",
                     "list": [
-                        { "name": "", "value": "<b>Hotel Pick-up</b>" },
-                        { "name": "", "value": "<b>All transfers and Tour Guide Services</b>" }
+                        {
+                            "name": "",
+                            "value": "<b>Hotel Pick-up</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>All transfers and Tour Guide Services</b>"
+                        }
                     ]
                 },
                 "notIncluded": {
                     "title": "What is not included",
                     "list": [
-                        { "name": "", "value": "<b>Tickets of any kind</b>" },
-                        { "name": "", "value": "<b>Food and Beverages</b>" }
+                        {
+                            "name": "",
+                            "value": "<b>Tickets of any kind</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>Food and Beverages</b>"
+                        }
                     ]
                 }
             }
@@ -301,8 +442,14 @@
             "precos": {
                 "title": "Prices and Durations:",
                 "list": [
-                    { "valor": 790, "duracao": "36 Hours tour" },
-                    { "valor": 530, "duracao": "11 Hours tour" }
+                    {
+                        "valor": 790,
+                        "duracao": "36 Hours tour"
+                    },
+                    {
+                        "valor": 530,
+                        "duracao": "11 Hours tour"
+                    }
                 ]
             },
             "more": {
@@ -312,26 +459,56 @@
                 "details": {
                     "title": "Details",
                     "list": [
-                        { "name": "Duration: ", "value": "<b>Up to 11 hours or 36 hours tour</b>" },
-                        { "name": "Accommodation Hotel: ", "value": "<b>According to AVAILABILITY, with BELA BELÉM providing features and images of the HOTELS for your APPROVAL.</b>" },
-                        { "name": "Tours in High Season: ", "value": "<b>Prices subject to change from those published in this brochure.</b>" },
-                        { "name": "Note: ", "value": "<b>The cost of the buffalo ride or paid visiting spaces is not included due to possible unavailability on the day of your tour. We inform you that they have LOW cost/price.</b>" }
+                        {
+                            "name": "Duration: ",
+                            "value": "<b>Up to 11 hours or 36 hours tour</b>"
+                        },
+                        {
+                            "name": "Accommodation Hotel: ",
+                            "value": "<b>According to AVAILABILITY, with BELA BELÉM providing features and images of the HOTELS for your APPROVAL.</b>"
+                        },
+                        {
+                            "name": "Tours in High Season: ",
+                            "value": "<b>Prices subject to change from those published in this brochure.</b>"
+                        },
+                        {
+                            "name": "Note: ",
+                            "value": "<b>The cost of the buffalo ride or paid visiting spaces is not included due to possible unavailability on the day of your tour. We inform you that they have LOW cost/price.</b>"
+                        }
                     ]
                 },
                 "included": {
                     "title": "What is included",
                     "list": [
-                        { "name": "", "value": "<b>Travel by fast SPEEDBOAT or CATAMARAN - registered with the Brazilian Navy.</b>" },
-                        { "name": "", "value": "<b>ALL transfers and Tour Guide Services.</b>" },
-                        { "name": "", "value": "<b>Hotel Pick-up.</b>" },
-                        { "name": "", "value": "<b>Accommodation with breakfast for 36-hour tours.</b>" }
+                        {
+                            "name": "",
+                            "value": "<b>Travel by fast SPEEDBOAT or CATAMARAN - registered with the Brazilian Navy.</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>ALL transfers and Tour Guide Services.</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>Hotel Pick-up.</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>Accommodation with breakfast for 36-hour tours.</b>"
+                        }
                     ]
                 },
                 "notIncluded": {
                     "title": "What is not included",
                     "list": [
-                        { "name": "", "value": "<b>Tickets of any kind</b>" },
-                        { "name": "", "value": "<b>Itineraries sold by local providers</b>" }
+                        {
+                            "name": "",
+                            "value": "<b>Tickets of any kind</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>Itineraries sold by local providers</b>"
+                        }
                     ]
                 }
             }
@@ -346,7 +523,10 @@
             "precos": {
                 "title": "Prices and Durations:",
                 "list": [
-                    { "valor": 510, "duracao": "12 Hours tour" }
+                    {
+                        "valor": 510,
+                        "duracao": "12 Hours tour"
+                    }
                 ]
             },
             "more": {
@@ -354,21 +534,36 @@
                 "details": {
                     "title": "Details",
                     "list": [
-                        { "name": "Duration:", "value": "<b>Up to 12 hours tour</b>" }
+                        {
+                            "name": "Duration:",
+                            "value": "<b>Up to 12 hours tour</b>"
+                        }
                     ]
                 },
                 "included": {
                     "title": "What is included",
                     "list": [
-                        { "name": "", "value": "<b>Hotel Pick-up</b>" },
-                        { "name": "", "value": "<b>All transfers and Tour Guide Services</b>" }
+                        {
+                            "name": "",
+                            "value": "<b>Hotel Pick-up</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>All transfers and Tour Guide Services</b>"
+                        }
                     ]
                 },
                 "notIncluded": {
                     "title": "What is not included",
                     "list": [
-                        { "name": "", "value": "<b>Tickets of any kind</b>" },
-                        { "name": "", "value": "<b>Food and Beverages</b>" }
+                        {
+                            "name": "",
+                            "value": "<b>Tickets of any kind</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>Food and Beverages</b>"
+                        }
                     ]
                 }
             }
@@ -384,7 +579,10 @@
             "precos": {
                 "title": "Prices and Durations:",
                 "list": [
-                    { "valor": 630, "duracao": "13 Hours tour" }
+                    {
+                        "valor": 630,
+                        "duracao": "13 Hours tour"
+                    }
                 ]
             },
             "more": {
@@ -392,22 +590,40 @@
                 "details": {
                     "title": "Details",
                     "list": [
-                        { "name": "Duration:", "value": "<b>Up to 13 hours tour</b>" }
+                        {
+                            "name": "Duration:",
+                            "value": "<b>Up to 13 hours tour</b>"
+                        }
                     ]
                 },
                 "included": {
                     "title": "What is included",
                     "list": [
-                        { "name": "", "value": "<b>Hotel Pick-up</b>" },
-                        { "name": "", "value": "<b>All transfers and Tour Guide Services</b>" },
-                        { "name": "", "value": "<b>Raft tour along the lower Tocantins</b>" }
+                        {
+                            "name": "",
+                            "value": "<b>Hotel Pick-up</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>All transfers and Tour Guide Services</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>Raft tour along the lower Tocantins</b>"
+                        }
                     ]
                 },
                 "notIncluded": {
                     "title": "What is not included",
                     "list": [
-                        { "name": "", "value": "<b>Tickets of any kind</b>" },
-                        { "name": "", "value": "<b>Food and Beverages</b>" }
+                        {
+                            "name": "",
+                            "value": "<b>Tickets of any kind</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>Food and Beverages</b>"
+                        }
                     ]
                 }
             }
@@ -422,7 +638,10 @@
             "precos": {
                 "title": "Prices and Durations:",
                 "list": [
-                    { "valor": 630, "duracao": "12 Hours tour" }
+                    {
+                        "valor": 630,
+                        "duracao": "12 Hours tour"
+                    }
                 ]
             },
             "more": {
@@ -430,21 +649,36 @@
                 "details": {
                     "title": "Details",
                     "list": [
-                        { "name": "Duration: ", "value": "<b>Up to 12 hours tour</b>" }
+                        {
+                            "name": "Duration: ",
+                            "value": "<b>Up to 12 hours tour</b>"
+                        }
                     ]
                 },
                 "included": {
                     "title": "What is included",
                     "list": [
-                        { "name": "", "value": "<b>Hotel Pick-up</b>" },
-                        { "name": "", "value": "<b>All transfers and Tour Guide Services</b>" }
+                        {
+                            "name": "",
+                            "value": "<b>Hotel Pick-up</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>All transfers and Tour Guide Services</b>"
+                        }
                     ]
                 },
                 "notIncluded": {
                     "title": "What is not included",
                     "list": [
-                        { "name": "", "value": "<b>Tickets of any kind</b>" },
-                        { "name": "", "value": "<b>Food and Beverages</b>" }
+                        {
+                            "name": "",
+                            "value": "<b>Tickets of any kind</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>Food and Beverages</b>"
+                        }
                     ]
                 }
             }
@@ -459,7 +693,10 @@
             "precos": {
                 "title": "Prices and Durations:",
                 "list": [
-                    { "valor": 560, "duracao": "12 Hours tour" }
+                    {
+                        "valor": 560,
+                        "duracao": "12 Hours tour"
+                    }
                 ]
             },
             "more": {
@@ -467,21 +704,36 @@
                 "details": {
                     "title": "Details",
                     "list": [
-                        { "name": "Duration: ", "value": "<b>Up to 12 hours tour</b>" }
+                        {
+                            "name": "Duration: ",
+                            "value": "<b>Up to 12 hours tour</b>"
+                        }
                     ]
                 },
                 "included": {
                     "title": "What is included",
                     "list": [
-                        { "name": "", "value": "<b>Hotel Pick-up</b>" },
-                        { "name": "", "value": "<b>All transfers and Tour Guide Services</b>" }
+                        {
+                            "name": "",
+                            "value": "<b>Hotel Pick-up</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>All transfers and Tour Guide Services</b>"
+                        }
                     ]
                 },
                 "notIncluded": {
                     "title": "What is not included",
                     "list": [
-                        { "name": "", "value": "<b>Tickets of any kind</b>" },
-                        { "name": "", "value": "<b>Food and Beverages</b>" }
+                        {
+                            "name": "",
+                            "value": "<b>Tickets of any kind</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>Food and Beverages</b>"
+                        }
                     ]
                 }
             }
@@ -502,15 +754,27 @@
                 "details": {
                     "title": "Details",
                     "list": [
-                        { "name": "Availability:", "value": "<b>Upon request and prior scheduling.</b>" }
+                        {
+                            "name": "Availability:",
+                            "value": "<b>Upon request and prior scheduling.</b>"
+                        }
                     ]
                 },
                 "included": {
                     "title": "What is included",
                     "list": [
-                        { "name": "", "value": "<b>Vehicles suitable for the size of your group</b>" },
-                        { "name": "", "value": "<b>Professionals accredited by regulatory bodies</b>" },
-                        { "name": "", "value": "<b>Tour guide in foreign language (upon your request)</b>" }
+                        {
+                            "name": "",
+                            "value": "<b>Vehicles suitable for the size of your group</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>Professionals accredited by regulatory bodies</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>Tour guide in foreign language (upon your request)</b>"
+                        }
                     ]
                 },
                 "notIncluded": {
@@ -599,15 +863,30 @@
         "instagram": "Book via Instagram",
         "whatsapp": "Book via WhatsApp",
         "titulo": "Tour Package Booking",
+        "pacote": {
+            "nenhum": "No package selected",
+            "titulo": "Select the desired package"
+        },
         "form": {
             "nome": "👉What is your name?",
             "numero": "👉What is your Mobile number with country code?",
             "hotel": "👉What is your current accommodation hotel (room number), or place of stay?",
             "pessoas": "👉What is the number of people in your group? Or are you alone?",
-            "destinos": "👉What is your Package(s) of interest?",
-            "datas": "👉What is the date(s) of interest?",
+            "destinos": "👉What is your Package of interest?",
+            "datas": "👉What is the date of interest?",
             "detalhes": "👉Are there any special care needs for your group or yourself?🎯",
+            "indicacao": "👉Who referred us to you at your hotel or event?",
+            "sem_indicacao": "No referral",
+            "houve_indicacao": "There was a referral",
+            "nome_indicacao": "Name of the person who referred you",
             "enviar": "Send",
+            "cancelar": "Cancel"
+        },
+        "dataHora": {
+            "titulo": "Choose the date and time",
+            "data": "Date",
+            "horario": "Desired Start Time (to be confirmed)",
+            "confirmar": "Confirm",
             "cancelar": "Cancel"
         }
     },

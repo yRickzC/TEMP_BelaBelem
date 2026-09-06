@@ -18,8 +18,14 @@
             "precos": {
                 "title": "Prix et Durées :",
                 "list": [
-                    { "valor": 350, "duracao": "09 Heures de visite" },
-                    { "valor": 270, "duracao": "05 Heures de visite" },
+                    {
+                        "valor": 350,
+                        "duracao": "09 Heures de visite"
+                    },
+                    {
+                        "valor": 270,
+                        "duracao": "05 Heures de visite"
+                    },
                     {
                         "valor": 380,
                         "duracao": "10 Heures de visite <br><span class=\"text-[13px] md:text-[15px] font-normal\">(Belém + Icoaraci)</span>"
@@ -35,22 +41,40 @@
                 "details": {
                     "title": "Détails",
                     "list": [
-                        { "name": "Durée : ", "value": "<b>De 05 à 10 heures de visite</b>" },
-                        { "name": "Attention : ", "value": "<b>La liste des destinations ci-dessus est illustrative. Les visites dépendent du temps contracté, de la disponibilité des lieux, ainsi que de l'intérêt et du profil du client.</b>" }
+                        {
+                            "name": "Durée : ",
+                            "value": "<b>De 05 à 10 heures de visite</b>"
+                        },
+                        {
+                            "name": "Attention : ",
+                            "value": "<b>La liste des destinations ci-dessus est illustrative. Les visites dépendent du temps contracté, de la disponibilité des lieux, ainsi que de l'intérêt et du profil du client.</b>"
+                        }
                     ]
                 },
                 "included": {
                     "title": "Ce qui est inclus",
                     "list": [
-                        { "name": "", "value": "<b>Prise en charge à l'hôtel</b>" },
-                        { "name": "", "value": "<b>Tous les transferts et Services de Guide Touristique</b>" }
+                        {
+                            "name": "",
+                            "value": "<b>Prise en charge à l'hôtel</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>Tous les transferts et Services de Guide Touristique</b>"
+                        }
                     ]
                 },
                 "notIncluded": {
                     "title": "Ce qui n'est pas inclus",
                     "list": [
-                        { "name": "", "value": "<b>Billets d'entrée de toute nature</b>" },
-                        { "name": "", "value": "<b>Nourriture et Boissons</b>" }
+                        {
+                            "name": "",
+                            "value": "<b>Billets d'entrée de toute nature</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>Nourriture et Boissons</b>"
+                        }
                     ]
                 }
             }
@@ -65,7 +89,10 @@
             "precos": {
                 "title": "Prix et Durées :",
                 "list": [
-                    { "valor": 350, "duracao": "10 Heures de visite" }
+                    {
+                        "valor": 350,
+                        "duracao": "10 Heures de visite"
+                    }
                 ]
             },
             "more": {
@@ -73,21 +100,36 @@
                 "details": {
                     "title": "Détails",
                     "list": [
-                        { "name": "Durée : ", "value": "<b>Jusqu'à 10 heures de visite</b>" }
+                        {
+                            "name": "Durée : ",
+                            "value": "<b>Jusqu'à 10 heures de visite</b>"
+                        }
                     ]
                 },
                 "included": {
                     "title": "Ce qui est inclus",
                     "list": [
-                        { "name": "", "value": "<b>Prise en charge à l'hôtel</b>" },
-                        { "name": "", "value": "<b>Tous les transferts et Services de Guide Touristique</b>" }
+                        {
+                            "name": "",
+                            "value": "<b>Prise en charge à l'hôtel</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>Tous les transferts et Services de Guide Touristique</b>"
+                        }
                     ]
                 },
                 "notIncluded": {
                     "title": "Ce qui n'est pas inclus",
                     "list": [
-                        { "name": "", "value": "<b>Billets d'entrée de toute nature</b>" },
-                        { "name": "", "value": "<b>Nourriture et Boissons</b>" }
+                        {
+                            "name": "",
+                            "value": "<b>Billets d'entrée de toute nature</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>Nourriture et Boissons</b>"
+                        }
                     ]
                 }
             }
@@ -102,7 +144,10 @@
             "precos": {
                 "title": "Prix et Durées :",
                 "list": [
-                    { "valor": 390, "duracao": "09 Heures de visite" }
+                    {
+                        "valor": 390,
+                        "duracao": "09 Heures de visite"
+                    }
                 ]
             },
             "more": {
@@ -110,21 +155,36 @@
                 "details": {
                     "title": "Détails",
                     "list": [
-                        { "name": "Durée : ", "value": "<b>Jusqu'à 09 heures de visite</b>" }
+                        {
+                            "name": "Durée : ",
+                            "value": "<b>Jusqu'à 09 heures de visite</b>"
+                        }
                     ]
                 },
                 "included": {
                     "title": "Ce qui est inclus",
                     "list": [
-                        { "name": "", "value": "<b>Prise en charge à l'hôtel</b>" },
-                        { "name": "", "value": "<b>Tous les transferts et Services de Guide Touristique</b>" }
+                        {
+                            "name": "",
+                            "value": "<b>Prise en charge à l'hôtel</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>Tous les transferts et Services de Guide Touristique</b>"
+                        }
                     ]
                 },
                 "notIncluded": {
                     "title": "Ce qui n'est pas inclus",
                     "list": [
-                        { "name": "", "value": "<b>Billets d'entrée de toute nature</b>" },
-                        { "name": "", "value": "<b>Nourriture et Boissons</b>" }
+                        {
+                            "name": "",
+                            "value": "<b>Billets d'entrée de toute nature</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>Nourriture et Boissons</b>"
+                        }
                     ]
                 }
             }
@@ -139,7 +199,10 @@
             "precos": {
                 "title": "Prix et Durées :",
                 "list": [
-                    { "valor": 310, "duracao": "05 Heures de visite" }
+                    {
+                        "valor": 310,
+                        "duracao": "05 Heures de visite"
+                    }
                 ]
             },
             "more": {
@@ -147,22 +210,40 @@
                 "details": {
                     "title": "Détails",
                     "list": [
-                        { "name": "Durée : ", "value": "<b>Jusqu'à 05 heures de visite</b>" },
-                        { "name": "Attention :", "value": " <b>Disponible tous les jours</b>" }
+                        {
+                            "name": "Durée : ",
+                            "value": "<b>Jusqu'à 05 heures de visite</b>"
+                        },
+                        {
+                            "name": "Attention :",
+                            "value": " <b>Disponible tous les jours</b>"
+                        }
                     ]
                 },
                 "included": {
                     "title": "Ce qui est inclus",
                     "list": [
-                        { "name": "", "value": "<b>Prise en charge à l'hôtel</b>" },
-                        { "name": "", "value": "<b>Tous les transferts et Services de Guide Touristique</b>" }
+                        {
+                            "name": "",
+                            "value": "<b>Prise en charge à l'hôtel</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>Tous les transferts et Services de Guide Touristique</b>"
+                        }
                     ]
                 },
                 "notIncluded": {
                     "title": "Ce qui n'est pas inclus",
                     "list": [
-                        { "name": "", "value": "<b>Billets d'entrée de toute nature</b>" },
-                        { "name": "", "value": "<b>Nourriture et Boissons</b>" }
+                        {
+                            "name": "",
+                            "value": "<b>Billets d'entrée de toute nature</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>Nourriture et Boissons</b>"
+                        }
                     ]
                 }
             }
@@ -177,7 +258,10 @@
             "precos": {
                 "title": "Prix et Durées :",
                 "list": [
-                    { "valor": 430, "duracao": "09 Heures de visite" }
+                    {
+                        "valor": 430,
+                        "duracao": "09 Heures de visite"
+                    }
                 ]
             },
             "more": {
@@ -185,22 +269,40 @@
                 "details": {
                     "title": "Détails",
                     "list": [
-                        { "name": "Durée : ", "value": "<b>Jusqu'à 09 heures de visite</b>" },
-                        { "name": "ATTENTION : ", "value": "<b>Disponible tous les jours</b>" }
+                        {
+                            "name": "Durée : ",
+                            "value": "<b>Jusqu'à 09 heures de visite</b>"
+                        },
+                        {
+                            "name": "ATTENTION : ",
+                            "value": "<b>Disponible tous les jours</b>"
+                        }
                     ]
                 },
                 "included": {
                     "title": "Ce qui est inclus",
                     "list": [
-                        { "name": "", "value": "<b>Prise en charge à l'hôtel</b>" },
-                        { "name": "", "value": "<b>Tous les transferts et Services de Guide Touristique</b>" }
+                        {
+                            "name": "",
+                            "value": "<b>Prise en charge à l'hôtel</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>Tous les transferts et Services de Guide Touristique</b>"
+                        }
                     ]
                 },
                 "notIncluded": {
                     "title": "Ce qui n'est pas inclus",
                     "list": [
-                        { "name": "", "value": "<b>Billets d'entrée de toute nature</b>" },
-                        { "name": "", "value": "<b>Nourriture et Boissons</b>" }
+                        {
+                            "name": "",
+                            "value": "<b>Billets d'entrée de toute nature</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>Nourriture et Boissons</b>"
+                        }
                     ]
                 }
             }
@@ -231,23 +333,44 @@
                 "details": {
                     "title": "Détails",
                     "list": [
-                        { "name": "Durée - <b>Lever du Soleil :</b> ", "value": "<b>Jusqu'à 05 heures de visite</b>" },
-                        { "name": "Durée - <b>Coucher du Soleil :</b> ", "value": "<b>Jusqu'à 03 heures de visite</b>" },
-                        { "name": "", "value": "<b>Disponible tous les jours</b>" }
+                        {
+                            "name": "Durée - <b>Lever du Soleil :</b> ",
+                            "value": "<b>Jusqu'à 05 heures de visite</b>"
+                        },
+                        {
+                            "name": "Durée - <b>Coucher du Soleil :</b> ",
+                            "value": "<b>Jusqu'à 03 heures de visite</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>Disponible tous les jours</b>"
+                        }
                     ]
                 },
                 "included": {
                     "title": "Ce qui est inclus",
                     "list": [
-                        { "name": "", "value": "<b>Prise en charge à l'hôtel</b>" },
-                        { "name": "", "value": "<b>Petit-déjeuner pour le circuit du Lever du Soleil</b>" },
-                        { "name": "", "value": "<b>Tous les transferts et Services de Guide Touristique</b>" }
+                        {
+                            "name": "",
+                            "value": "<b>Prise en charge à l'hôtel</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>Petit-déjeuner pour le circuit du Lever du Soleil</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>Tous les transferts et Services de Guide Touristique</b>"
+                        }
                     ]
                 },
                 "notIncluded": {
                     "title": "Ce qui n'est pas inclus",
                     "list": [
-                        { "name": "", "value": "<b>Billets d'entrée de toute nature</b>" }
+                        {
+                            "name": "",
+                            "value": "<b>Billets d'entrée de toute nature</b>"
+                        }
                     ]
                 }
             }
@@ -263,7 +386,10 @@
             "precos": {
                 "title": "Prix et Durées :",
                 "list": [
-                    { "valor": 350, "duracao": "11 Heures de visite" }
+                    {
+                        "valor": 350,
+                        "duracao": "11 Heures de visite"
+                    }
                 ]
             },
             "more": {
@@ -271,21 +397,36 @@
                 "details": {
                     "title": "Détails",
                     "list": [
-                        { "name": "Durée : ", "value": "<b>Jusqu'à 11 heures de visite</b>" }
+                        {
+                            "name": "Durée : ",
+                            "value": "<b>Jusqu'à 11 heures de visite</b>"
+                        }
                     ]
                 },
                 "included": {
                     "title": "Ce qui est inclus",
                     "list": [
-                        { "name": "", "value": "<b>Prise en charge à l'hôtel</b>" },
-                        { "name": "", "value": "<b>Tous les transferts et Services de Guide Touristique</b>" }
+                        {
+                            "name": "",
+                            "value": "<b>Prise en charge à l'hôtel</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>Tous les transferts et Services de Guide Touristique</b>"
+                        }
                     ]
                 },
                 "notIncluded": {
                     "title": "Ce qui n'est pas inclus",
                     "list": [
-                        { "name": "", "value": "<b>Billets d'entrée de toute nature</b>" },
-                        { "name": "", "value": "<b>Nourriture et Boissons</b>" }
+                        {
+                            "name": "",
+                            "value": "<b>Billets d'entrée de toute nature</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>Nourriture et Boissons</b>"
+                        }
                     ]
                 }
             }
@@ -301,8 +442,14 @@
             "precos": {
                 "title": "Prix et Durées :",
                 "list": [
-                    { "valor": 790, "duracao": "36 Heures de visite" },
-                    { "valor": 530, "duracao": "11 Heures de visite" }
+                    {
+                        "valor": 790,
+                        "duracao": "36 Heures de visite"
+                    },
+                    {
+                        "valor": 530,
+                        "duracao": "11 Heures de visite"
+                    }
                 ]
             },
             "more": {
@@ -312,26 +459,56 @@
                 "details": {
                     "title": "Détails",
                     "list": [
-                        { "name": "Durée : ", "value": "<b>Jusqu'à 11 heures ou 36 heures de visite</b>" },
-                        { "name": "Hôtel d'Hébergement : ", "value": "<b>Selon la DISPONIBILITÉ, BELA BELÉM fournissant les caractéristiques et les images des HÔTELS pour votre APPROBATION.</b>" },
-                        { "name": "Visites en Haute Saison : ", "value": "<b>Prix sujets à modification par rapport à ceux publiés dans cette brochure.</b>" },
-                        { "name": "Remarque : ", "value": "<b>Le coût de la balade à dos de buffle ou des espaces de visite payants n'est pas inclus en raison d'une éventuelle indisponibilité le jour de votre visite. Nous vous informons qu'ils ont un FAIBLE coût/prix.</b>" }
+                        {
+                            "name": "Durée : ",
+                            "value": "<b>Jusqu'à 11 heures ou 36 heures de visite</b>"
+                        },
+                        {
+                            "name": "Hôtel d'Hébergement : ",
+                            "value": "<b>Selon la DISPONIBILITÉ, BELA BELÉM fournissant les caractéristiques et les images des HÔTELS pour votre APPROBATION.</b>"
+                        },
+                        {
+                            "name": "Visites en Haute Saison : ",
+                            "value": "<b>Prix sujets à modification par rapport à ceux publiés dans cette brochure.</b>"
+                        },
+                        {
+                            "name": "Remarque : ",
+                            "value": "<b>Le coût de la balade à dos de buffle ou des espaces de visite payants n'est pas inclus en raison d'une éventuelle indisponibilité le jour de votre visite. Nous vous informons qu'ils ont un FAIBLE coût/prix.</b>"
+                        }
                     ]
                 },
                 "included": {
                     "title": "Ce qui est inclus",
                     "list": [
-                        { "name": "", "value": "<b>Voyage en HORS-BORD ou CATAMARAN rapide - enregistré auprès de la Marine Brésilienne.</b>" },
-                        { "name": "", "value": "<b>TOUS les transferts et Services de Guide Touristique.</b>" },
-                        { "name": "", "value": "<b>Prise en charge à l'hôtel.</b>" },
-                        { "name": "", "value": "<b>Hébergement avec petit-déjeuner pour les visites de 36 heures.</b>" }
+                        {
+                            "name": "",
+                            "value": "<b>Voyage en HORS-BORD ou CATAMARAN rapide - enregistré auprès de la Marine Brésilienne.</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>TOUS les transferts et Services de Guide Touristique.</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>Prise en charge à l'hôtel.</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>Hébergement avec petit-déjeuner pour les visites de 36 heures.</b>"
+                        }
                     ]
                 },
                 "notIncluded": {
                     "title": "Ce qui n'est pas inclus",
                     "list": [
-                        { "name": "", "value": "<b>Billets d'entrée de toute nature</b>" },
-                        { "name": "", "value": "<b>Itinéraires vendus par des prestataires locaux</b>" }
+                        {
+                            "name": "",
+                            "value": "<b>Billets d'entrée de toute nature</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>Itinéraires vendus par des prestataires locaux</b>"
+                        }
                     ]
                 }
             }
@@ -346,7 +523,10 @@
             "precos": {
                 "title": "Prix et Durées :",
                 "list": [
-                    { "valor": 510, "duracao": "12 Heures de visite" }
+                    {
+                        "valor": 510,
+                        "duracao": "12 Heures de visite"
+                    }
                 ]
             },
             "more": {
@@ -354,21 +534,36 @@
                 "details": {
                     "title": "Détails",
                     "list": [
-                        { "name": "Durée :", "value": "<b>Jusqu'à 12 heures de visite</b>" }
+                        {
+                            "name": "Durée :",
+                            "value": "<b>Jusqu'à 12 heures de visite</b>"
+                        }
                     ]
                 },
                 "included": {
                     "title": "Ce qui est inclus",
                     "list": [
-                        { "name": "", "value": "<b>Prise en charge à l'hôtel</b>" },
-                        { "name": "", "value": "<b>Tous les transferts et Services de Guide Touristique</b>" }
+                        {
+                            "name": "",
+                            "value": "<b>Prise en charge à l'hôtel</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>Tous les transferts et Services de Guide Touristique</b>"
+                        }
                     ]
                 },
                 "notIncluded": {
                     "title": "Ce qui n'est pas inclus",
                     "list": [
-                        { "name": "", "value": "<b>Billets d'entrée de toute nature</b>" },
-                        { "name": "", "value": "<b>Nourriture et Boissons</b>" }
+                        {
+                            "name": "",
+                            "value": "<b>Billets d'entrée de toute nature</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>Nourriture et Boissons</b>"
+                        }
                     ]
                 }
             }
@@ -384,7 +579,10 @@
             "precos": {
                 "title": "Prix et Durées :",
                 "list": [
-                    { "valor": 630, "duracao": "13 Heures de visite" }
+                    {
+                        "valor": 630,
+                        "duracao": "13 Heures de visite"
+                    }
                 ]
             },
             "more": {
@@ -392,22 +590,40 @@
                 "details": {
                     "title": "Détails",
                     "list": [
-                        { "name": "Durée :", "value": "<b>Jusqu'à 13 heures de visite</b>" }
+                        {
+                            "name": "Durée :",
+                            "value": "<b>Jusqu'à 13 heures de visite</b>"
+                        }
                     ]
                 },
                 "included": {
                     "title": "Ce qui est inclus",
                     "list": [
-                        { "name": "", "value": "<b>Prise en charge à l'hôtel</b>" },
-                        { "name": "", "value": "<b>Tous les transferts et Services de Guide Touristique</b>" },
-                        { "name": "", "value": "<b>Promenade en radeau sur le bas Tocantins</b>" }
+                        {
+                            "name": "",
+                            "value": "<b>Prise en charge à l'hôtel</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>Tous les transferts et Services de Guide Touristique</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>Promenade en radeau sur le bas Tocantins</b>"
+                        }
                     ]
                 },
                 "notIncluded": {
                     "title": "Ce qui n'est pas inclus",
                     "list": [
-                        { "name": "", "value": "<b>Billets d'entrée de toute nature</b>" },
-                        { "name": "", "value": "<b>Nourriture et Boissons</b>" }
+                        {
+                            "name": "",
+                            "value": "<b>Billets d'entrée de toute nature</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>Nourriture et Boissons</b>"
+                        }
                     ]
                 }
             }
@@ -422,7 +638,10 @@
             "precos": {
                 "title": "Prix et Durées :",
                 "list": [
-                    { "valor": 630, "duracao": "12 Heures de visite" }
+                    {
+                        "valor": 630,
+                        "duracao": "12 Heures de visite"
+                    }
                 ]
             },
             "more": {
@@ -430,21 +649,36 @@
                 "details": {
                     "title": "Détails",
                     "list": [
-                        { "name": "Durée : ", "value": "<b>Jusqu'à 12 heures de visite</b>" }
+                        {
+                            "name": "Durée : ",
+                            "value": "<b>Jusqu'à 12 heures de visite</b>"
+                        }
                     ]
                 },
                 "included": {
                     "title": "Ce qui est inclus",
                     "list": [
-                        { "name": "", "value": "<b>Prise en charge à l'hôtel</b>" },
-                        { "name": "", "value": "<b>Tous les transferts et Services de Guide Touristique</b>" }
+                        {
+                            "name": "",
+                            "value": "<b>Prise en charge à l'hôtel</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>Tous les transferts et Services de Guide Touristique</b>"
+                        }
                     ]
                 },
                 "notIncluded": {
                     "title": "Ce qui n'est pas inclus",
                     "list": [
-                        { "name": "", "value": "<b>Billets d'entrée de toute nature</b>" },
-                        { "name": "", "value": "<b>Nourriture et Boissons</b>" }
+                        {
+                            "name": "",
+                            "value": "<b>Billets d'entrée de toute nature</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>Nourriture et Boissons</b>"
+                        }
                     ]
                 }
             }
@@ -459,7 +693,10 @@
             "precos": {
                 "title": "Prix et Durées :",
                 "list": [
-                    { "valor": 560, "duracao": "12 Heures de visite" }
+                    {
+                        "valor": 560,
+                        "duracao": "12 Heures de visite"
+                    }
                 ]
             },
             "more": {
@@ -467,21 +704,36 @@
                 "details": {
                     "title": "Détails",
                     "list": [
-                        { "name": "Durée : ", "value": "<b>Jusqu'à 12 heures de visite</b>" }
+                        {
+                            "name": "Durée : ",
+                            "value": "<b>Jusqu'à 12 heures de visite</b>"
+                        }
                     ]
                 },
                 "included": {
                     "title": "Ce qui est inclus",
                     "list": [
-                        { "name": "", "value": "<b>Prise en charge à l'hôtel</b>" },
-                        { "name": "", "value": "<b>Tous les transferts et Services de Guide Touristique</b>" }
+                        {
+                            "name": "",
+                            "value": "<b>Prise en charge à l'hôtel</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>Tous les transferts et Services de Guide Touristique</b>"
+                        }
                     ]
                 },
                 "notIncluded": {
                     "title": "Ce qui n'est pas inclus",
                     "list": [
-                        { "name": "", "value": "<b>Billets d'entrée de toute nature</b>" },
-                        { "name": "", "value": "<b>Nourriture et Boissons</b>" }
+                        {
+                            "name": "",
+                            "value": "<b>Billets d'entrée de toute nature</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>Nourriture et Boissons</b>"
+                        }
                     ]
                 }
             }
@@ -502,15 +754,27 @@
                 "details": {
                     "title": "Détails",
                     "list": [
-                        { "name": "Disponibilité :", "value": "<b>Sur consultation et programmation préalable.</b>" }
+                        {
+                            "name": "Disponibilité :",
+                            "value": "<b>Sur consultation et programmation préalable.</b>"
+                        }
                     ]
                 },
                 "included": {
                     "title": "Ce qui est inclus",
                     "list": [
-                        { "name": "", "value": "<b>Véhicules adaptés à la taille de votre groupe</b>" },
-                        { "name": "", "value": "<b>Professionnels accrédités par les organismes de réglementation</b>" },
-                        { "name": "", "value": "<b>Guide touristique en langue étrangère (sur votre demande)</b>" }
+                        {
+                            "name": "",
+                            "value": "<b>Véhicules adaptés à la taille de votre groupe</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>Professionnels accrédités par les organismes de réglementation</b>"
+                        },
+                        {
+                            "name": "",
+                            "value": "<b>Guide touristique en langue étrangère (sur votre demande)</b>"
+                        }
                     ]
                 },
                 "notIncluded": {
@@ -599,15 +863,30 @@
         "instagram": "Réserver via Instagram",
         "whatsapp": "Réserver via WhatsApp",
         "titulo": "Réservation de Forfait Touristique",
+        "pacote": {
+            "nenhum": "Aucun forfait sélectionné",
+            "titulo": "Sélectionnez le forfait souhaité"
+        },
         "form": {
             "nome": "👉Quel est votre nom ?",
             "numero": "👉Quel est votre numéro de téléphone portable avec l'indicatif du pays ?",
             "hotel": "👉Quel est votre hôtel d'hébergement actuel (numéro de chambre) ou lieu de séjour ?",
             "pessoas": "👉Quel est le nombre de personnes dans votre groupe ? Ou êtes-vous seul(e) ?",
-            "destinos": "👉Quel est votre/vos Forfait(s) d'intérêt ?",
+            "destinos": "👉Quel est votre/vos Forfait d'intérêt ?",
             "datas": "👉Quelle est la date / quelles sont les dates d'intérêt ?",
             "detalhes": "👉Y a-t-il des précautions particulières à prendre pour votre groupe ou vous-même ?🎯",
+            "indicacao": "👉Qui nous a recommandé dans votre hôtel ou événement ?",
+            "sem_indicacao": "Aucune recommandation",
+            "houve_indicacao": "Il y a eu une recommandation",
+            "nome_indicacao": "Nom de la personne qui vous a recommandé",
             "enviar": "Envoyer",
+            "cancelar": "Annuler"
+        },
+        "dataHora": {
+            "titulo": "Choisissez la date et l'heure",
+            "data": "Date",
+            "horario": "Heure de début souhaitée (à confirmer)",
+            "confirmar": "Confirmer",
             "cancelar": "Annuler"
         }
     },

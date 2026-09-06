@@ -531,14 +531,14 @@
                 "1": "PIX – COM ENVIO DA CHAVE PIX DA BBOT.",
                 "2": "CARTÃO DE CRÉDITO À VISTA: Via Link de Pagamento (acréscimo de 4,2%)."
             },
-"listaLocal": {
+            "listaLocal": {
                 "1": "PIX – COM ENVIO DA CHAVE PIX DA BBOT.",
-                "2": "DINHEIRO EM MOEDAS REAL, DÓLAR ou EURO.",
-                "3": "CARTÃO DE CRÉDITO À VISTA:  Via  Link de Pagamento ou maquininha (acréscimo de 4,2%).",
-                "4": "CARTÃO DE CRÉDITO PARCELADO:  Via  Link de Pagamento ou maquininha (acréscimo 4,2% + JUROS DO PERÍODO).",
-                "5": "PAYPAL: Pagamento via PayPal."
-            }
-        },
+                    "2": "DINHEIRO EM MOEDAS REAL, DÓLAR ou EURO.",
+                    "3": "CARTÃO DE CRÉDITO À VISTA:  Via  Link de Pagamento ou maquininha (acréscimo de 4,2%).",
+                    "4": "CARTÃO DE CRÉDITO PARCELADO:  Via  Link de Pagamento ou maquininha (acréscimo 4,2% + JUROS DO PERÍODO).",
+                    "5": "PAYPAL: Pagamento via PayPal."
+                }
+            },
 "regulamentacao": {
             "titulo": "Regulamentação e Condições Gerais",
             "valores_grupos": {
@@ -599,17 +599,33 @@
         "instagram": "Reserve pelo Instagram",
         "whatsapp": "Reserve pelo WhatsApp",
         "titulo": "Reserva de Pacote Turístico",
+        "pacote": {
+            "nenhum": "Nenhum pacote selecionado",
+            "titulo": "Selecione o pacote desejado"
+        },
         "form": {
             "nome": "👉Qual é o seu nome?",
             "numero": "👉Qual é o seu número de Celular com DDI?",
             "hotel": "👉Qual é o seu hotel de hospedagem atual (número do seu quarto), ou local de hospedagem?",
             "pessoas": "👉Qual é o número de pessoas do seu grupo? Ou sozinho(a)?",
-            "destinos": "👉Qual é o seu Pacote(s) de interesse?",
-            "datas": "👉Qual a data(s) de interesse?",
+            "destinos": "👉Qual é o seu Pacote de interesse?",
+            "datas": "👉Qual a data de interesse?",
             "detalhes": "👉Há cuidados especiais a serem tomados junto ao seu grupo ou pessoa?🎯",
+            "indicacao": "👉Quem nos indicou no seu hotel ou evento?",
+            "sem_indicacao": "Não houve indicação",
+            "houve_indicacao": "Houve indicação",
+            "nome_indicacao": "Nome de quem indicou",
             "enviar": "Enviar",
             "cancelar": "Cancelar"
+        },
+        "dataHora": {
+        "titulo": "Escolha a data e o horário",
+        "data": "Data",
+        "horario": "Horário de Início desejado (a confirmar)",
+        "confirmar": "Confirmar",
+        "cancelar": "Cancelar"
         }
+
     },
     "labels": {
         "por_pessoa": "por pessoa"
